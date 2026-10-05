@@ -1,6 +1,6 @@
 # ラフカ語辞書
 
-[ウェブ辞書](https://jinubbbo5454-rgb.github.io/lafca-dictionary/)
+[ウェブ辞書](https://velvet-orbit-731.github.io/lafca-dictionary/)
 
 このリポジトリの `dictionary.json` が語彙・語義・語形・関連語の唯一の正本です。ウェブ画面からの保存は、全語彙と表示用HTML・版情報を同時に更新します。既存の項目IDは維持します。
 
