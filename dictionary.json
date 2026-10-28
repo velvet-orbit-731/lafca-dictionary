@@ -8823,6 +8823,111 @@
       ]
     },
     {
+      "id": "558c20fa86a25d90",
+      "head": "čäl",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "チェル, ¢ (ラフカの通貨単位)",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [],
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "čäl"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "čäli"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "čälen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "čälins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "čäler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "čälirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "čälu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "čälus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "čälel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "čälils"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "nounPattern": "auto",
+          "gerundDeclension": false
+        },
+        "overrides": {},
+        "omitted": []
+      }
+    },
+    {
       "id": "37f3a44f51679e7d",
       "head": "Calmon",
       "pos": "名詞",
@@ -73208,6 +73313,111 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1c7cb9f07e1584fc",
+      "head": "šolpra",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "ショルプラ, $ (ラフカの補助通貨単位, チェルの100分の1)",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [],
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "šolpra"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "šolpras"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "šolpran"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "šolprans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "šolprar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "šolprars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "šolpro"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "šolpros"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "šolpral"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "šolprals"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "nounPattern": "auto",
+          "gerundDeclension": false
+        },
+        "overrides": {},
+        "omitted": []
+      }
     },
     {
       "id": "09ab7b4ff69cddc5",
