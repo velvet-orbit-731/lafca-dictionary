@@ -8839,7 +8839,13 @@
       "gender": "N",
       "class": "固定型",
       "protoForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "title": "類義",
+          "id": "1c7cb9f07e1584fc",
+          "head": "šolpra"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
@@ -73331,7 +73337,13 @@
       "gender": "F",
       "class": "固定型",
       "protoForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "title": "類義",
+          "id": "558c20fa86a25d90",
+          "head": "čäl"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
