@@ -166,6 +166,11 @@
           "title": "派生",
           "head": "jotta",
           "id": "6af8245c60ae0785"
+        },
+        {
+          "title": "派生",
+          "id": "340f5f311e35d48e",
+          "head": "brücta"
         }
       ],
       "senseTags": [],
@@ -7557,6 +7562,122 @@
       ]
     },
     {
+      "id": "340f5f311e35d48e",
+      "head": "brücta",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "重さ, 重み, 重量, 質量",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "46ea2e149eba1e88",
+          "head": "brüq"
+        },
+        {
+          "title": "派生",
+          "id": "879826555bd03286",
+          "head": "-ta"
+        }
+      ],
+      "senseTags": [],
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "brücta"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "brüctas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "brüctan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "brüctans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "brüctar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "brüctars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "brücto"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "brüctos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "brüctal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "brüctals"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "nounPattern": "auto",
+          "gerundDeclension": false
+        },
+        "overrides": {},
+        "omitted": []
+      }
+    },
+    {
       "id": "46ea2e149eba1e88",
       "head": "brüq",
       "pos": "形容詞",
@@ -7574,7 +7695,13 @@
       "protoForms": [
         "*brūg"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "340f5f311e35d48e",
+          "head": "brücta"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
