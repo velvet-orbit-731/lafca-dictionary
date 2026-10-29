@@ -137,6 +137,16 @@
           "title": "派生",
           "head": "tagen",
           "id": "2887a986f74d8550"
+        },
+        {
+          "title": "派生",
+          "id": "8035b999b398a54a",
+          "head": "horen"
+        },
+        {
+          "title": "派生",
+          "id": "6ea509797f42cb2f",
+          "head": "lumen"
         }
       ],
       "senseTags": [],
@@ -24999,6 +25009,11 @@
           "title": "派生",
           "head": "erta",
           "id": "b47233f375789358"
+        },
+        {
+          "title": "派生",
+          "id": "6a95b360cf74eb53",
+          "head": "ert jugil"
         }
       ],
       "senseTags": [
@@ -25010,6 +25025,120 @@
         }
       ],
       "tables": []
+    },
+    {
+      "id": "6a95b360cf74eb53",
+      "head": "ert jugil",
+      "pos": "名詞",
+      "kind": "慣用句",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "首相, 総理大臣",
+      "tags": [
+        "名詞",
+        "慣用句",
+        "男性",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "ert",
+          "id": "cd7d12423c6344ea"
+        },
+        {
+          "title": "派生",
+          "head": "jugil",
+          "id": "0557e975ea9eac00"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "首相, 総理大臣",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "ert jugil"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "ert jugiles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "ert jugilen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "ert jugilens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "ert jugiler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "ert jugilers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "ert jugilu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "ert jugilus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "ert jugilel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "ert jugilels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b47233f375789358",
@@ -29956,6 +30085,236 @@
       ]
     },
     {
+      "id": "6cde9e03cde24834",
+      "head": "foltešil",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "大統領（共和国の元首）",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "490a69c989ccfc12",
+          "head": "foltešila"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "大統領（共和国の元首）",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "foltešil"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "foltešiles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "foltešilen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "foltešilens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "foltešiler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "foltešilers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "foltešilu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "foltešilus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "foltešilel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "foltešilels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "490a69c989ccfc12",
+      "head": "foltešila",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の大統領",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "foltešil",
+          "id": "6cde9e03cde24834"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の大統領",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "foltešila"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "foltešilas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "foltešilan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "foltešilans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "foltešilar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "foltešilars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "foltešilo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "foltešilos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "foltešilal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "foltešilals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c8a05857c16b0e9b",
       "head": "fopok",
       "pos": "名詞",
@@ -31961,6 +32320,11 @@
           "title": "派生",
           "head": "bengalt",
           "id": "43979e3cf6b0b8f3"
+        },
+        {
+          "title": "派生",
+          "id": "3dee0d15deadcf02",
+          "head": "lumgalt"
         }
       ],
       "senseTags": [],
@@ -32335,6 +32699,11 @@
           "title": "派生",
           "head": "gantazilm",
           "id": "495f5f6423613397"
+        },
+        {
+          "title": "派生",
+          "id": "01f830e5a63a3aff",
+          "head": "gantagažal"
         }
       ],
       "senseTags": [
@@ -32421,6 +32790,128 @@
                 {
                   "label": "複数再帰格",
                   "value": "gantals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01f830e5a63a3aff",
+      "head": "gantagažal",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "連邦, 連邦国家",
+      "tags": [
+        "名詞",
+        "男性",
+        "個別交替型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "不規則型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "ganta",
+          "id": "bc0ad882c1793bde"
+        },
+        {
+          "title": "派生",
+          "head": "gažal",
+          "id": "9ddc93c188f02312"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "連邦, 連邦国家",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "obliqueStem": "gantagažl"
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "gantagažal"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "gantagažles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "gantagažlen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "gantagažlens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "gantagäžler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "gantagäžlers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "gantagažlu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "gantagažlus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "gantagažlel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "gantagažlels"
                 }
               ]
             }
@@ -33098,7 +33589,13 @@
         "*gátsal",
         "*gatsl-ā́"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "01f830e5a63a3aff",
+          "head": "gantagažal"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
@@ -39725,6 +40222,11 @@
           "title": "派生",
           "head": "horča",
           "id": "f1f77995bc38b951"
+        },
+        {
+          "title": "派生",
+          "id": "8035b999b398a54a",
+          "head": "horen"
         }
       ],
       "senseTags": [],
@@ -39989,6 +40491,259 @@
                 {
                   "label": "単数再帰格",
                   "value": "Hörcival"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8035b999b398a54a",
+      "head": "horen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "君臨する, 王として治める, 王位にある",
+      "tags": [
+        "動詞",
+        "o/u交替"
+      ],
+      "gender": "",
+      "class": "o/u交替",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "hor",
+          "id": "7e22081a70b04203"
+        },
+        {
+          "title": "派生",
+          "head": "-en",
+          "id": "b64df55cb77c185e"
+        },
+        {
+          "title": "派生",
+          "id": "b6b1f59e07826c5e",
+          "head": "hurad"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "君臨する, 王として治める, 王位にある",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "huras"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "hurev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "hureč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "hureg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "hur"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "hursi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "horen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "hor"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "hor"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "horeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "hures"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "horan"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "hurad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "dihurt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "hurad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "hurädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "huraden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "hurädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "huräder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "hurädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "huradu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "huradus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "huradel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "hurädils"
                 }
               ]
             }
@@ -42231,6 +42986,127 @@
                 {
                   "label": "副詞形",
                   "value": "hümizu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6b1f59e07826c5e",
+      "head": "hurad",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "王国, 王の治める国\n王の治世, 王権",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "horen",
+          "id": "8035b999b398a54a"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "王国, 王の治める国",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "王の治世, 王権",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "hurad"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "huradi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "huraden"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "huradins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "huräder"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "huradirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "huradu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "huradus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "huradel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "huradils"
                 }
               ]
             }
@@ -46499,6 +47375,247 @@
                 {
                   "label": "複数再帰格",
                   "value": "jučwupels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0557e975ea9eac00",
+      "head": "jugil",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "大臣\n臣, 家臣（君主に仕えて政務を担う者）",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "317dfdd9f420c211",
+          "head": "jugila"
+        },
+        {
+          "title": "派生",
+          "id": "6a95b360cf74eb53",
+          "head": "ert jugil"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "大臣",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "臣, 家臣（君主に仕えて政務を担う者）",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "jugil"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "jugiles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "jugilen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "jugilens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "jugiler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "jugilers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "jugilu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "jugilus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "jugilel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "jugilels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "317dfdd9f420c211",
+      "head": "jugila",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の大臣",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "jugil",
+          "id": "0557e975ea9eac00"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の大臣",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "jugila"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "jugilas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "jugilan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "jugilans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "jugilar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "jugilars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "jugilo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "jugilos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "jugilal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "jugilals"
                 }
               ]
             }
@@ -50791,7 +51908,18 @@
       "protoForms": [
         "*lum"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "3dee0d15deadcf02",
+          "head": "lumgalt"
+        },
+        {
+          "title": "派生",
+          "id": "6ea509797f42cb2f",
+          "head": "lumen"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
@@ -50962,6 +52090,500 @@
                 {
                   "label": "複数再帰格",
                   "value": "lomals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dd26df05526fcf34",
+      "head": "lumad",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "政府\n統治",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "lumen",
+          "id": "6ea509797f42cb2f"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "政府",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "統治",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "lumad"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "lumadi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "lumaden"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "lumadins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "lumäder"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "lumadirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "lumadu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "lumadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "lumadel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "lumadils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ea509797f42cb2f",
+      "head": "lumen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "治める, 統治する",
+      "tags": [
+        "動詞",
+        "非交替"
+      ],
+      "gender": "",
+      "class": "非交替",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "lum",
+          "id": "9eaaa246de4224f2"
+        },
+        {
+          "title": "派生",
+          "head": "-en",
+          "id": "b64df55cb77c185e"
+        },
+        {
+          "title": "派生",
+          "id": "dd26df05526fcf34",
+          "head": "lumad"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "治める, 統治する",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "lumas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "lumev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "lumeč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "lumeg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "lum"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "lumsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "lumen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "lumit"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "lum"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "lumeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "lumes"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "luman"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "lumad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "dilumt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "lumad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "lumädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "lumaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "lumädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "lumäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "lumädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "lumadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "lumadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "lumadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "lumädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3dee0d15deadcf02",
+      "head": "lumgalt",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "公国, 侯国, 領邦（領主が君主として治める国）",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "lum",
+          "id": "9eaaa246de4224f2"
+        },
+        {
+          "title": "派生",
+          "head": "galt",
+          "id": "a166c3d53dd2c808"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "公国, 侯国, 領邦（領主が君主として治める国）",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "lumgalt"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "lumgaltes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "lumgalten"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "lumgaltens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "lumgälter"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "lumgälters"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "lumgaltu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "lumgaltus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "lumgaltel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "lumgaltels"
                 }
               ]
             }
@@ -52057,6 +53679,16 @@
           "title": "集合名詞",
           "head": "manča",
           "id": "dbf7c50ba193fcd1"
+        },
+        {
+          "title": "派生",
+          "id": "2d348a93c6199755",
+          "head": "tatamanž"
+        },
+        {
+          "title": "派生",
+          "id": "7400b184bf38fe03",
+          "head": "tradamanž"
         }
       ],
       "senseTags": [],
@@ -53612,6 +55244,115 @@
       "tables": []
     },
     {
+      "id": "398a30aff5368b2a",
+      "head": "mosade",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "州（国の行政区画）",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "短語尾母音型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "州（国の行政区画）",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "mosade"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "mosades"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "mosaden"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "mosadens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "mosader"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "mosaders"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "mosadu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "mosadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "mosadel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "mosadels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4f2d0b80cc97f2c5",
       "head": "mössel",
       "pos": "名詞",
@@ -53640,6 +55381,11 @@
           "title": "派生",
           "head": "-el",
           "id": "3f10bbf80aafb26c"
+        },
+        {
+          "title": "派生",
+          "id": "fbfba4105c7a1a82",
+          "head": "sžlimössel"
         }
       ],
       "senseTags": [
@@ -53834,6 +55580,236 @@
                 {
                   "label": "複数再帰格",
                   "value": "mösselals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d5eb2864e558d99",
+      "head": "mossil",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "長官, 州知事, 管理者",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "5667d6450451fde8",
+          "head": "mossila"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "長官, 州知事, 管理者",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "mossil"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "mossiles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "mossilen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "mossilens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "mossiler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "mossilers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "mossilu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "mossilus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "mossilel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "mossilels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5667d6450451fde8",
+      "head": "mossila",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の長官, 女性の州知事, 女性の管理者",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "mossil",
+          "id": "7d5eb2864e558d99"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の長官, 女性の州知事, 女性の管理者",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "mossila"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "mossilas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "mossilan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "mossilans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "mossilar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "mossilars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "mossilo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "mossilos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "mossilal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "mossilals"
                 }
               ]
             }
@@ -56301,6 +58277,121 @@
                 {
                   "label": "複数再帰格",
                   "value": "nevirelals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ee314fdc6e24a93",
+      "head": "nirdasobač",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "共和国\n共和制",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "共和国",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "共和制",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "nirdasobač"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "nirdasobačes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "nirdasobačen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "nirdasobačens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "nirdasobäčer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "nirdasobäčers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "nirdasobaču"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "nirdasobačus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "nirdasobačel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "nirdasobačels"
                 }
               ]
             }
@@ -61465,6 +63556,121 @@
       ]
     },
     {
+      "id": "c1f0c5e0140789ec",
+      "head": "pfade",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "帝国, ていこく\n帝権, 皇帝の支配権",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "短語尾母音型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "帝国, ていこく",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "帝権, 皇帝の支配権",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "pfade"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "pfades"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "pfaden"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "pfadens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "pfader"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "pfaders"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "pfadu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "pfadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "pfadel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "pfadels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e4c5ef610bced356",
       "head": "pfe",
       "pos": "連体詞",
@@ -61687,6 +63893,236 @@
         }
       ],
       "tables": []
+    },
+    {
+      "id": "875617ea21b86a4f",
+      "head": "pfil",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "皇帝, こうてい, 帝",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "2e8cc0d418825a0b",
+          "head": "pfila"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "皇帝, こうてい, 帝",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "pfil"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "pfiles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "pfilen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "pfilens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "pfiler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "pfilers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "pfilu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "pfilus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "pfilel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "pfilels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e8cc0d418825a0b",
+      "head": "pfila",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女帝, 女性の皇帝",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "pfil",
+          "id": "875617ea21b86a4f"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女帝, 女性の皇帝",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "pfila"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "pfilas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "pfilan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "pfilans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "pfilar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "pfilars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "pfilo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "pfilos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "pfilal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "pfilals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b58dc719b9eebef4",
@@ -71440,6 +73876,370 @@
       ]
     },
     {
+      "id": "43747c7d4de52717",
+      "head": "sčrüš",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "打倒\n革命",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "sčrušen",
+          "id": "fcd64af71c0efe9d"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "打倒",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "革命",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "sčrüš"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "sčrüši"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "sčrüšen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "sčrüšins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "sčrüšer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "sčrüširs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "sčrüšu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "sčrüšus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "sčrüšel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "sčrüšils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fcd64af71c0efe9d",
+      "head": "sčrušen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "倒す, 打倒する",
+      "tags": [
+        "動詞",
+        "非交替"
+      ],
+      "gender": "",
+      "class": "非交替",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "43747c7d4de52717",
+          "head": "sčrüš"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "倒す, 打倒する",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "sčrušas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "sčrušev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "sčrušeč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "sčrušeg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "sčruš"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "sčrušsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "sčrušen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "sčrušit"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "sčruš"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "sčrušeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "sčrušes"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "sčrušan"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "sčrušad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "disčrušet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "sčrušad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "sčrušädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "sčrušaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "sčrušädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "sčrušäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "sčrušädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "sčrušadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "sčrušadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "sčrušadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "sčrušädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1d8719e27a652735",
       "head": "scünen",
       "pos": "動詞",
@@ -72523,6 +75323,126 @@
                 {
                   "label": "単数再帰格",
                   "value": "serivinel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a18e1c7b1e66744",
+      "head": "šerva",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "党派, 派\n政党",
+      "tags": [
+        "名詞",
+        "女性",
+        "Ⅱ型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "Ⅱ型",
+      "protoForms": [
+        "*ʃérw-ā",
+        "*ʃirw-ā́-"
+      ],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "党派, 派",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "政党",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "obliqueStem": "širv"
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "šerva"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "širvas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "širvan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "širvans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "širvar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "širvars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "širvo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "širvos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "širval"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "širvals"
                 }
               ]
             }
@@ -74213,6 +77133,370 @@
         }
       ],
       "tables": []
+    },
+    {
+      "id": "47609a8a8b0a69ef",
+      "head": "smad",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "選挙",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "sman",
+          "id": "fd52baa3d7086f74"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "選挙",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "smad"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "smadi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "smaden"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "smadins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "smäder"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "smadirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "smadu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "smadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "smadel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "smadils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd52baa3d7086f74",
+      "head": "sman",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "選ぶ, 選出する\n（選挙で）投票する",
+      "tags": [
+        "動詞",
+        "母音幹"
+      ],
+      "gender": "",
+      "class": "母音幹",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "47609a8a8b0a69ef",
+          "head": "smad"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "選ぶ, 選出する",
+          "tags": [
+            "他動"
+          ]
+        },
+        {
+          "meaning": "（選挙で）投票する",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "smas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "smav"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "smač"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "smag"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "sma"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "smasi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "sman"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "smat"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "sma"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "smag"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "smas"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "sman"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "smad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "dismat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "smad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "smädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "smaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "smädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "smäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "smädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "smadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "smadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "smadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "smädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "410702853a942c49",
@@ -78488,6 +81772,378 @@
       ]
     },
     {
+      "id": "3b72ede6161b1ec4",
+      "head": "šwäf",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "集会, 会議\n議会, 国会",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "šwafen",
+          "id": "3e727c9d93df2a7a"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "集会, 会議",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "議会, 国会",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "šwäf"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "šwäfi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "šwäfen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "šwäfins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "šwäfer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "šwäfirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "šwäfu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "šwäfus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "šwäfel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "šwäfils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e727c9d93df2a7a",
+      "head": "šwafen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "集める, 寄せ集める\n集まる, 寄り集まる",
+      "tags": [
+        "動詞",
+        "a/e交替"
+      ],
+      "gender": "",
+      "class": "a/e交替",
+      "protoForms": [
+        "*ʃwáf-en"
+      ],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "3b72ede6161b1ec4",
+          "head": "šwäf"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "集める, 寄せ集める",
+          "tags": [
+            "他動"
+          ]
+        },
+        {
+          "meaning": "集まる, 寄り集まる",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "šwefas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "šwefev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "šwefeč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "šwefeg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "šwef"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "šwefsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "šwafen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "šwaf"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "šwaf"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "šwafeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "šwefes"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "šwafan"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "šwefad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "dišweft"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "šwefad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "šwefädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "šwefaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "šwefädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "šwefäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "šwefädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "šwefadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "šwefadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "šwefadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "šwefädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1fb0a95c06423e80",
       "head": "šwano",
       "pos": "名詞",
@@ -78578,6 +82234,123 @@
                 {
                   "label": "複数再帰格",
                   "value": "šwanols"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3780b62a53b13e5",
+      "head": "swapfreq",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "法典, 憲章\n憲法",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "法典, 憲章",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "憲法",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "obliqueStem": "swapfreg"
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "swapfreq"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "swapfreges"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "swapfregen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "swapfregens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "swapfreger"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "swapfregers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "swapfregu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "swapfregus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "swapfregel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "swapfregels"
                 }
               ]
             }
@@ -79795,7 +83568,13 @@
       "protoForms": [
         "*stsli"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "fbfba4105c7a1a82",
+          "head": "sžlimössel"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
@@ -79867,6 +83646,246 @@
                 {
                   "label": "複数再帰格",
                   "value": "sžlils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbfba4105c7a1a82",
+      "head": "sžlimössel",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "議長, 座長",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "sžli",
+          "id": "68f42cde7b95dd20"
+        },
+        {
+          "title": "派生",
+          "head": "mössel",
+          "id": "4f2d0b80cc97f2c5"
+        },
+        {
+          "title": "派生",
+          "id": "9562ce9f7f934072",
+          "head": "sžlimössela"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "議長, 座長",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "sžlimössel"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "sžlimösseles"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "sžlimösselen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "sžlimösselens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "sžlimösseler"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "sžlimösselers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "sžlimösselu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "sžlimösselus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "sžlimösselel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "sžlimösselels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9562ce9f7f934072",
+      "head": "sžlimössela",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の議長, 女性の座長",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "sžlimössel",
+          "id": "fbfba4105c7a1a82"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の議長, 女性の座長",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "sžlimössela"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "sžlimösselas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "sžlimösselan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "sžlimösselans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "sžlimösselar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "sžlimösselars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "sžlimösselo"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "sžlimösselos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "sžlimösselal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "sžlimösselals"
                 }
               ]
             }
@@ -82033,6 +86052,247 @@
         }
       ],
       "tables": []
+    },
+    {
+      "id": "ee528835e39227a6",
+      "head": "tatacun",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の議員, 女性の代議員",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "tatamanž",
+          "id": "2d348a93c6199755"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の議員, 女性の代議員",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "tatacun"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "tatacunes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "tatacunen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "tatacunens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "tatacüner"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "tatacüners"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "tatacunu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "tatacunus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "tatacunel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "tatacunels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d348a93c6199755",
+      "head": "tatamanž",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "議員, 代議員\n代理人",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "manž",
+          "id": "337b2aca8eaba573"
+        },
+        {
+          "title": "派生",
+          "id": "ee528835e39227a6",
+          "head": "tatacun"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "議員, 代議員",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "代理人",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "tatamanž"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "tatamanžes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "tatamanžen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "tatamanžens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "tatamänžer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "tatamänžers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "tatamanžu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "tatamanžus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "tatamanžel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "tatamanžels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "a05337f9015942b0",
@@ -84687,7 +88947,13 @@
       "protoForms": [
         "*trádā"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "7400b184bf38fe03",
+          "head": "tradamanž"
+        }
+      ],
       "senseTags": [],
       "tables": [
         {
@@ -84759,6 +89025,246 @@
                 {
                   "label": "複数再帰格",
                   "value": "tradals"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c8a537aaa3c99c4",
+      "head": "tradacun",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "女性の国民, 女性の市民",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "tradamanž",
+          "id": "7400b184bf38fe03"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "女性の国民, 女性の市民",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "tradacun"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "tradacunes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "tradacunen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "tradacunens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "tradacüner"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "tradacüners"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "tradacunu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "tradacunus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "tradacunel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "tradacunels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7400b184bf38fe03",
+      "head": "tradamanž",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "国民, 市民",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "trada",
+          "id": "e00c71f0312b1500"
+        },
+        {
+          "title": "派生",
+          "head": "manž",
+          "id": "337b2aca8eaba573"
+        },
+        {
+          "title": "派生",
+          "id": "4c8a537aaa3c99c4",
+          "head": "tradacun"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "国民, 市民",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "tradamanž"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "tradamanžes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "tradamanžen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "tradamanžens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "tradamänžer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "tradamänžers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "tradamanžu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "tradamanžus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "tradamanžel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "tradamanžels"
                 }
               ]
             }
@@ -110554,6 +115060,442 @@
       "usage": [
         "Distil se bis tenk le jürd.「彼が言ったことは本当だ」",
         "限定用法では性・数・格に一致。叙述用法は基本形 jürd。中性複数は男性複数と共通。"
+      ]
+    },
+    "8035b999b398a54a": {
+      "section": "動詞",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "動詞 / o/u 交替",
+      "etymology": "hor + -en（名詞からの動詞化）",
+      "ald": "",
+      "relation": "",
+      "note": "taq → tagen と同じ名詞の動詞化で、tagen と同じく交替動詞にした。アオリスト・命令単数 hor が名詞 hor と、不定形が hor の属格 horen と同形になるのも taq / tagen と同じ。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {
+        "現在語幹": "hur"
+      },
+      "usage": [
+        "君臨する国・地域は u ＋与格で示す。Hor hur u Lafcar.「王がラフカに君臨する」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "b6b1f59e07826c5e": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "horen の動名詞の語彙化",
+      "ald": "",
+      "relation": "",
+      "note": "lumad・smad と同じく、動名詞が名詞として定着した語。国号「ラフカ王国」は Lafcan Hurad。結果名詞 *hör は与格が hor の与格 hörer と、複数が höri と同形になるので立てない。アラビア語 mulk（malaka の動名詞「治世、王権」）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Lafcan Hurad「ラフカ王国」",
+        "Le cwendepenk mosades u Lafcan Huräder.「ラフカ王国には15の州がある」"
+      ]
+    },
+    "875617ea21b86a4f": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *pfihl（pfen「支配する」＋行為者 -ihl）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 帝国の称号を帝国の公用語から借りたもの。ラテン語 imperātor（imperō「命じる」の行為者名詞）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Pfil lit lumad pfaden o Aldanu.「皇帝はアルダンから帝国を治めていた」"
+      ]
+    },
+    "2e8cc0d418825a0b": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "pfil の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "c1f0c5e0140789ec": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-e幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *pfade（pfen「支配する」の動名詞）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 語根に母音のない動詞の動名詞 zade・lade と同じ形。ラテン語 imperium（imperō「命じる」から、「支配権」→「帝国」）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "3dee0d15deadcf02": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "lum + galt（新しい複合語）",
+      "ald": "",
+      "relation": "",
+      "note": "古い複合語 bengalt「植民地」と同じ「〜の土地」の型。結果名詞 *lüm は与格が lum の与格 lümer と同形になるので立てない。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "1ee314fdc6e24a93": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *nirdasobāch（nirda「民族」＋ sobāch「物、こと」）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 近代の学術語。前部 nirda- の i が借用の印で、在来語 nerda「民族」と同源。ラテン語 rēs pūblica（「民の」＋「こと」）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Nirdasobač ten foltešiler.「共和国には大統領がいる」",
+        "nirdasobačen šerva「共和派」、nirdasobačen sčrüš「共和革命」"
+      ]
+    },
+    "01f830e5a63a3aff": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 不規則型 gantagažl-",
+      "etymology": "ganta + gažal（新しい複合語）",
+      "ald": "",
+      "relation": "",
+      "note": "曲用は gažal（gažl-）に従う。外国の連邦や旧国号の「帝国連邦」に使う。フィンランド語 liittovaltio・ドイツ語 Bundesstaat（「連合」＋「国家」）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Worelen Gantagažal「ウォール連邦」"
+      ]
+    },
+    "398a30aff5368b2a": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-e幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *mausade（mausen「義務を負う、必要とする」の動名詞「務め、担当」）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 帝国が長官に割り当てた管轄の名が区画の名になった。アラビア語 wilāya（「統治の任」→「州」）と同じ作り方。長官は mossil。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Mossil lum mosader.「長官が州を治める」"
+      ]
+    },
+    "7d5eb2864e558d99": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA maussil「管理者、責任者」",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 OA の au は o に写す。在来語 mössel「家長、主人」と同源の二重語。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "5667d6450451fde8": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "mossil の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "3e727c9d93df2a7a": {
+      "section": "動詞",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "動詞 / a/e 交替",
+      "etymology": "*ʃwáf-en（東語派固有）",
+      "ald": "",
+      "relation": "",
+      "note": "東語派固有の不透明な語根。アルディア語に同源語はない（cwen・hräz と同じ扱い）。 Ald. の caphen「集める」は ph の対応が決まらず、chem「集まる」はトリーニ語からの借用なので継承しない。他動・自動の両方に使う（vlenen と同じ）。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {
+        "現在語幹": "šwef"
+      },
+      "usage": [
+        "Manča šwaf u tradar.「人々が都市に集まった」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "3b72ede6161b1ec4": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "šwafen の結果名詞（ウムラウト・Ø）",
+      "ald": "",
+      "relation": "",
+      "note": "国の議会も šwäf と呼ぶ（Lafcan Šwäf「ラフカ議会」）。ハンガリー語 gyűlés（gyűlik「集まる」から）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Tatamanž fe u šwäfer.「議員が議会で話す」",
+        "Sžlimössel ažmil šwäfer.「議長が会議を始める」"
+      ]
+    },
+    "2d348a93c6199755": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *tatamanc（tata「代理、代わり」＋ manc「人」）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 近代の学術語。前部 tata- は在来の前置詞 tat「〜の代わりに」と同じ語根と見られる。曲用は manž に従う（与 tatamänžer）。トルコ語 milletvekili（「国民」＋「代理人」）と同じ型。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Tradamanžes smasi tatamänžers u smäder.「国民は選挙で議員を選ぶ」"
+      ]
+    },
+    "ee528835e39227a6": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "tatamanž の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "fbfba4105c7a1a82": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "sžli + mössel（新しい複合語）",
+      "ald": "",
+      "relation": "",
+      "note": "「椅子の主人」。スワヒリ語 mwenyekiti・中国語「主席」と同じ作り方。共和国の元首は foltešil。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Sžlimössel ažmil šwäfer.「議長が会議を始める」"
+      ]
+    },
+    "9562ce9f7f934072": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "sžlimössel の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "6ea509797f42cb2f": {
+      "section": "動詞",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "動詞 / 非交替",
+      "etymology": "lum + -en（名詞からの動詞化）",
+      "ald": "",
+      "relation": "",
+      "note": "ルーマニア語 domni（domn「領主」から）と同じ作り方。現在3単・命令単数 lum が名詞 lum と、不定形が lum の属格と同形になるのは taq / tagen と同じ。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "治める対象は与格。Mossil lum mosader.「長官が州を治める」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "dd26df05526fcf34": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "lumen の動名詞の語彙化",
+      "ald": "",
+      "relation": "",
+      "note": "動名詞が制度名として定着した語。オランダ語 regering・フィンランド語 hallitus（「治める」＋名詞化）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "0557e975ea9eac00": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *jūgihl（jūgo「仕える」＋行為者 -ihl）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 ū が ü にならないのが借用の印。首相は慣用句 ert jugil。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "担当は属格で前置する。Bis le dočuben jugil.「彼は財務の大臣だ」"
+      ]
+    },
+    "317dfdd9f420c211": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "jugil の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "6cde9e03cde24834": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA *fohlteshihl（fohl「〜の前に」＋ teshen「座る」＋行為者 -ihl）",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 近代の学術語。音節末の h を落として fol-。ラテン語 praesidēns・ハンガリー語 elnök（「前に座る者」）と同じ作り方。議長は sžlimössel。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Nirdasobač ten foltešiler.「共和国には大統領がいる」"
+      ]
+    },
+    "490a69c989ccfc12": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "foltešil の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "fd52baa3d7086f74": {
+      "section": "動詞",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "動詞 / 母音幹",
+      "etymology": "Ald. sma",
+      "ald": "sma「選ぶ」",
+      "relation": "同語根（資料）",
+      "note": "a を保ち母音幹とする。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "選ぶ対象は与格。Hor sma ert jugiler.「国王が首相を選ぶ」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "47609a8a8b0a69ef": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "sman の動名詞の語彙化",
+      "ald": "",
+      "relation": "",
+      "note": "動名詞が制度名として定着した語。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Tradamanžes smasi tatamänžers u smäder.「国民は選挙で議員を選ぶ」"
+      ]
+    },
+    "7400b184bf38fe03": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "trada + manž（新しい複合語）",
+      "ald": "",
+      "relation": "",
+      "note": "「都市の人」。英語 citizen、ロシア語 гражданин（град「都市」から）と同じ作り方。曲用は manž に従う（与 tradamänžer）。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "4c8a537aaa3c99c4": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "tradamanž の女性形",
+      "ald": "",
+      "relation": "",
+      "note": "2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": []
+    },
+    "3a18e1c7b1e66744": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / Ⅱ型 širv-",
+      "etymology": "*ʃérw-ā / *ʃirw-ā́-（東語派固有）",
+      "ald": "",
+      "relation": "",
+      "note": "東語派固有の不透明な語根。アルディア語に同源語はない（cwen・hräz と同じ扱い）。 子音の後の *w > v は balva と同じ。Ⅱ型として登録。主格の語幹強勢と斜格の語尾強勢を再建（文法2.1.4）。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "nirdasobačen šerva「共和派」、gantan šerva「連合派」"
+      ]
+    },
+    "f3780b62a53b13e5": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "OA swapfrēg「法律」",
+      "ald": "",
+      "relation": "",
+      "note": "古アルディア語（OA）からの文語借用で、第3版 §2.1 の対応による（長母音は質を保って短く、ウムラウトなし、固定型）。 在来語 swapräq「法律」と同源の二重語で、借用は pf と e を、継承語は p と ä を持つ。語幹末は g。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Šwäf šimit snaf swapfreq.「議会が新しい憲法を作った」"
+      ]
+    },
+    "fcd64af71c0efe9d": {
+      "section": "動詞",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "動詞 / 非交替",
+      "etymology": "Ald. schrushen",
+      "ald": "schrushen「倒す」",
+      "relation": "同語根（資料）",
+      "note": "sch > sč、sh > š。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Manča sčrušit hor.「人々が王を倒した」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "43747c7d4de52717": {
+      "section": "名詞",
+      "status": "採用済み",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "sčrušen の結果名詞（ウムラウト・Ø）",
+      "ald": "",
+      "relation": "",
+      "note": "トルコ語 devrim、スワヒリ語 mapinduzi（「覆す」から）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "nirdasobačen sčrüš「共和革命」"
+      ]
+    },
+    "6a95b360cf74eb53": {
+      "section": "接辞・派生表現",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "名詞（慣用句）",
+      "etymology": "ert「第一の」＋ jugil「大臣」",
+      "ald": "",
+      "relation": "",
+      "note": "ert は不変化で、jugil が通常どおり曲用する。ペルシア語 naxust-wazīr（「第一の」＋「大臣」）と同じ作り方。 2026-10-29、政治語彙の造語案第3版（lafca2/政治語彙_造語案_第3版.md）を作者が採用し登録。",
+      "stems": {},
+      "usage": [
+        "Hor sma ert jugiler.「国王が首相を選ぶ」"
       ]
     }
   },
