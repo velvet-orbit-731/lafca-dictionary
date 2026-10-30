@@ -86434,6 +86434,364 @@
       ]
     },
     {
+      "id": "dc03899af519ead6",
+      "head": "šiješ",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "呼び声, よびごえ, 呼びかけ",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "šiješen",
+          "id": "1cde75ea2bd13092"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "呼び声, よびごえ, 呼びかけ",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "šiješ"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "šiješi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "šiješen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "šiješins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "šiješer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "šiješirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "šiješu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "šiješus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "šiješel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "šiješils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1cde75ea2bd13092",
+      "head": "šiješen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "呼ぶ, よぶ, 呼びかける, 呼び寄せる",
+      "tags": [
+        "動詞",
+        "非交替"
+      ],
+      "gender": "",
+      "class": "非交替",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "šiješ",
+          "id": "dc03899af519ead6"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "呼ぶ, よぶ, 呼びかける, 呼び寄せる",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "šiješas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "šiješev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "šiješeč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "šiješeg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "šiješ"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "šiješsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "šiješen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "šiješit"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "šiješ"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "šiješeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "šiješes"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "šiješan"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "šiješad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "dišiješet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "šiješad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "šiješädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "šiješaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "šiješädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "šiješäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "šiješädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "šiješadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "šiješadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "šiješadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "šiješädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5854f7c54d70240c",
       "head": "sik",
       "pos": "形容詞",
@@ -100062,6 +100420,126 @@
                 {
                   "label": "複数再帰格",
                   "value": "tazepels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7aa6d01986d387e",
+      "head": "temra",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "声, こえ, 鳴き声\n音, おと, 物音",
+      "tags": [
+        "名詞",
+        "女性",
+        "Ⅱ型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "Ⅱ型",
+      "protoForms": [
+        "*témr-ā",
+        "*timr-ā́-"
+      ],
+      "relations": [],
+      "senseTags": [
+        {
+          "meaning": "声, こえ, 鳴き声",
+          "tags": [
+            "可算"
+          ]
+        },
+        {
+          "meaning": "音, おと, 物音",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "obliqueStem": "timr"
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "temra"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "timras"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "timran"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "timrans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "timrar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "timrars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "timro"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "timros"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "timral"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "timrals"
                 }
               ]
             }
@@ -133772,6 +134250,49 @@
       "stems": {},
       "usage": [
         "Firru jürta herš o zopu.「まさに真実は自ずと勝利する」（文語では Firru jürta o zopu herš.）"
+      ]
+    },
+    "1cde75ea2bd13092": {
+      "status": "採用済み",
+      "section": "動詞",
+      "stemType": "",
+      "grammar": "動詞 / 非交替",
+      "etymology": "Ald. shiásh",
+      "ald": "shiásh「呼ぶ」",
+      "relation": "同語根（資料）",
+      "note": "á → e、母音の間に j を挟む。声をかけて呼ぶこと。名を呼ぶ・名付ける（WOLD で一語の言語は40中7）、招く（40中6）は含めない。アルディア語辞書 No.1245。 2026-10-30、作者の依頼（「呼び声」と「声」）で造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "呼ぶ相手は目的語にし、格は文法3.2に従う。Bis šiješ ünter.「彼は犬を呼ぶ」",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "dc03899af519ead6": {
+      "status": "採用済み",
+      "section": "名詞",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "šiješen の結果名詞（ウムラウト・Ø。e なので変化は見えない）",
+      "ald": "",
+      "relation": "",
+      "note": "多くの言語と同じく「呼ぶ」の動詞から作る（ドイツ語 Ruf ← rufen、ロシア語 зов ← звать、韓国語 부름 ← 부르다、スワヒリ語 mwito ← -ita）。現在3単・命令単数 šiješ と、属格 šiješen が不定形と同形になるのは taq / tagen と同じ。日本語の「呼び声が高い」（評判）の意味は持たない。 2026-10-30、作者の依頼（「呼び声」と「声」）で造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "Šiješ hum o fattu.「森から呼び声が来る」"
+      ]
+    },
+    "a7aa6d01986d387e": {
+      "status": "採用済み",
+      "section": "名詞",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / Ⅱ型 timr-",
+      "etymology": "*témr-ā（東語派固有）\n曲用再建：主 *témr-ā / 斜 *timr-ā́-",
+      "ald": "",
+      "relation": "",
+      "note": "東語派固有の不透明な語根。Ald. の ting「声」は tingen「言う」から作った語、buh「音」は Laf. buh「青い」と同形になるので、どちらも継承しない。人・動物の声と、物の音を一語で表す（アラビア語 ṣawt、ヘブライ語 kol、トルコ語 ses、ハンガリー語 hang、フィンランド語 ääni、スワヒリ語 sauti、中国語「聲」と同じ）。Ald. は声と音を分ける。Ⅱ型として登録。主格の語幹強勢と斜格の語尾強勢を再建（文法2.1.4）。 2026-10-30、作者の依頼（「呼び声」と「声」）で造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "現在形の目的語は与格。As uras timrar.「私は声（音）を聞く」"
       ]
     }
   },
