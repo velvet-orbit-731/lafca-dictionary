@@ -186,6 +186,11 @@
           "title": "派生",
           "id": "340f5f311e35d48e",
           "head": "brücta"
+        },
+        {
+          "title": "派生",
+          "id": "b6a409caedf62851",
+          "head": "jürta"
         }
       ],
       "senseTags": [],
@@ -42095,6 +42100,372 @@
       ]
     },
     {
+      "id": "099ee263e831bcfd",
+      "head": "härš",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "勝利, しょうり, 勝ち",
+      "tags": [
+        "名詞",
+        "中性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "N",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "haršen",
+          "id": "98fe8d235ede7327"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "勝利, しょうり, 勝ち",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "härš"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "härši"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "häršen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "häršins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "häršer"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "härširs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "häršu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "häršus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "häršel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "häršils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98fe8d235ede7327",
+      "head": "haršen",
+      "pos": "動詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "勝つ, かつ, 勝利する\n打ち負かす, 負かす",
+      "tags": [
+        "動詞",
+        "a/e交替"
+      ],
+      "gender": "",
+      "class": "a/e交替",
+      "protoForms": [
+        "*xárʃ-en"
+      ],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "härš",
+          "id": "099ee263e831bcfd"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "勝つ, かつ, 勝利する",
+          "tags": [
+            "自動"
+          ]
+        },
+        {
+          "meaning": "打ち負かす, 負かす",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {
+          "gerundDeclension": true
+        },
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "現在の人称活用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "1人称",
+              "cells": [
+                {
+                  "label": "現在1単数",
+                  "value": "heršas"
+                },
+                {
+                  "label": "現在1複数",
+                  "value": "heršev"
+                }
+              ]
+            },
+            {
+              "label": "2人称",
+              "cells": [
+                {
+                  "label": "現在2単数",
+                  "value": "heršeč"
+                },
+                {
+                  "label": "現在2複数",
+                  "value": "heršeg"
+                }
+              ]
+            },
+            {
+              "label": "3人称",
+              "cells": [
+                {
+                  "label": "現在3単数",
+                  "value": "herš"
+                },
+                {
+                  "label": "現在3複数",
+                  "value": "heršsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "時制・法・非定形",
+          "columns": [
+            "語形"
+          ],
+          "rows": [
+            {
+              "label": "不定形",
+              "cells": [
+                {
+                  "label": "不定形",
+                  "value": "haršen"
+                }
+              ]
+            },
+            {
+              "label": "アオリスト",
+              "cells": [
+                {
+                  "label": "アオリスト",
+                  "value": "harš"
+                }
+              ]
+            },
+            {
+              "label": "命令単数",
+              "cells": [
+                {
+                  "label": "命令単数",
+                  "value": "harš"
+                }
+              ]
+            },
+            {
+              "label": "命令複数",
+              "cells": [
+                {
+                  "label": "命令複数",
+                  "value": "haršeg"
+                }
+              ]
+            },
+            {
+              "label": "接続法",
+              "cells": [
+                {
+                  "label": "接続法",
+                  "value": "heršes"
+                }
+              ]
+            },
+            {
+              "label": "条件法",
+              "cells": [
+                {
+                  "label": "条件法",
+                  "value": "haršan"
+                }
+              ]
+            },
+            {
+              "label": "動名詞",
+              "cells": [
+                {
+                  "label": "動名詞",
+                  "value": "heršad"
+                }
+              ]
+            },
+            {
+              "label": "過去分詞",
+              "cells": [
+                {
+                  "label": "過去分詞",
+                  "value": "diheršet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "動名詞の曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "動名詞単数主格",
+                  "value": "heršad"
+                },
+                {
+                  "label": "動名詞複数主格",
+                  "value": "heršädi"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "動名詞単数属格",
+                  "value": "heršaden"
+                },
+                {
+                  "label": "動名詞複数属格",
+                  "value": "heršädins"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "動名詞単数与格",
+                  "value": "heršäder"
+                },
+                {
+                  "label": "動名詞複数与格",
+                  "value": "heršädirs"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "動名詞単数奪格",
+                  "value": "heršadu"
+                },
+                {
+                  "label": "動名詞複数奪格",
+                  "value": "heršadus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "動名詞単数再帰格",
+                  "value": "heršadel"
+                },
+                {
+                  "label": "動名詞複数再帰格",
+                  "value": "heršädils"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "637bc60af21acfbc",
       "head": "he",
       "pos": "小辞",
@@ -52670,7 +53041,13 @@
       "protoForms": [
         "*jū́rd"
       ],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "b6a409caedf62851",
+          "head": "jürta"
+        }
+      ],
       "senseTags": [],
       "inflection": {
         "version": 1,
@@ -53354,6 +53731,132 @@
                 {
                   "label": "単数再帰格",
                   "value": "Jurežöldel"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6a409caedf62851",
+      "head": "jürta",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "真実, しんじつ, 真理\n本当であること",
+      "tags": [
+        "名詞",
+        "女性",
+        "固定型",
+        "-a型"
+      ],
+      "gender": "F",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "jürd",
+          "id": "88260de53819b8f3"
+        },
+        {
+          "title": "派生",
+          "head": "-ta",
+          "id": "879826555bd03286"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "真実, しんじつ, 真理",
+          "tags": [
+            "不可算"
+          ]
+        },
+        {
+          "meaning": "本当であること",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "jürta"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "jürtas"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "jürtan"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "jürtans"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "jürtar"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "jürtars"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "jürto"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "jürtos"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "jürtal"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "jürtals"
                 }
               ]
             }
@@ -65567,7 +66070,13 @@
       "gender": "",
       "class": "",
       "protoForms": [],
-      "relations": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "ce603cf17784fa62",
+          "head": "o zopu"
+        }
+      ],
       "senseTags": [
         {
           "meaning": "〜から, 〜より（起点）",
@@ -65582,6 +66091,36 @@
           ]
         }
       ],
+      "tables": []
+    },
+    {
+      "id": "ce603cf17784fa62",
+      "head": "o zopu",
+      "pos": "副詞",
+      "kind": "慣用句",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "自ずと, おのずと, ひとりでに, 自然に（外から働きかけられずに）",
+      "tags": [
+        "副詞",
+        "慣用句"
+      ],
+      "gender": "",
+      "class": "",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "head": "o",
+          "id": "88bcbae707f60078"
+        },
+        {
+          "title": "派生",
+          "head": "zop",
+          "id": "3695a5175bf0eddf"
+        }
+      ],
+      "senseTags": [],
       "tables": []
     },
     {
@@ -118334,6 +118873,121 @@
       ]
     },
     {
+      "id": "3695a5175bf0eddf",
+      "head": "zop",
+      "pos": "名詞",
+      "kind": "単語",
+      "numeralType": "",
+      "numberRestriction": "",
+      "meaning": "自己, じこ, 自分自身",
+      "tags": [
+        "名詞",
+        "男性",
+        "固定型",
+        "子音幹型"
+      ],
+      "gender": "M",
+      "class": "固定型",
+      "protoForms": [],
+      "relations": [
+        {
+          "title": "派生",
+          "id": "ce603cf17784fa62",
+          "head": "o zopu"
+        }
+      ],
+      "senseTags": [
+        {
+          "meaning": "自己, じこ, 自分自身",
+          "tags": [
+            "可算"
+          ]
+        }
+      ],
+      "inflection": {
+        "version": 1,
+        "settings": {},
+        "overrides": {},
+        "omitted": []
+      },
+      "tables": [
+        {
+          "title": "曲用",
+          "columns": [
+            "単数",
+            "複数"
+          ],
+          "rows": [
+            {
+              "label": "主格",
+              "cells": [
+                {
+                  "label": "単数主格",
+                  "value": "zop"
+                },
+                {
+                  "label": "複数主格",
+                  "value": "zopes"
+                }
+              ]
+            },
+            {
+              "label": "属格",
+              "cells": [
+                {
+                  "label": "単数属格",
+                  "value": "zopen"
+                },
+                {
+                  "label": "複数属格",
+                  "value": "zopens"
+                }
+              ]
+            },
+            {
+              "label": "与格",
+              "cells": [
+                {
+                  "label": "単数与格",
+                  "value": "zöper"
+                },
+                {
+                  "label": "複数与格",
+                  "value": "zöpers"
+                }
+              ]
+            },
+            {
+              "label": "奪格",
+              "cells": [
+                {
+                  "label": "単数奪格",
+                  "value": "zopu"
+                },
+                {
+                  "label": "複数奪格",
+                  "value": "zopus"
+                }
+              ]
+            },
+            {
+              "label": "再帰格",
+              "cells": [
+                {
+                  "label": "単数再帰格",
+                  "value": "zopel"
+                },
+                {
+                  "label": "複数再帰格",
+                  "value": "zopels"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "de2e820eeab88a9e",
       "head": "zropen",
       "pos": "動詞",
@@ -133046,6 +133700,78 @@
       "stems": {},
       "usage": [
         "名詞に前置し、一致しない。Wot äm le jod?「どの家が良いか」"
+      ]
+    },
+    "b6a409caedf62851": {
+      "status": "採用済み",
+      "section": "名詞",
+      "stemType": "-a幹",
+      "grammar": "名詞 / F / 固定型",
+      "etymology": "jürd + -ta（形容詞からの抽象名詞）",
+      "ald": "",
+      "relation": "",
+      "note": "語幹末の rd ＋ t は rt になる（文法1.4 の nd・ld ＋ t と同じ。jod → jotta、brüq → brücta）。 2026-10-30、作者の「まさに真実は自ずと勝利する」の訳のために造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "Firru jürta herš o zopu.「まさに真実は自ずと勝利する」（文語では Firru jürta o zopu herš.）"
+      ]
+    },
+    "98fe8d235ede7327": {
+      "status": "採用済み",
+      "section": "動詞",
+      "stemType": "",
+      "grammar": "動詞 / a/e 交替",
+      "etymology": "*xárʃ-en（東語派固有）",
+      "ald": "",
+      "relation": "",
+      "note": "東語派固有の不透明な語根。アルディア語辞書に該当する語がない。「勝つ」と「打ち負かす」を一語で表す（スワヒリ語 -shinda と同じ兼用）。負けることは受動の le / lit ＋ diheršet で表す。 2026-10-30、作者の「まさに真実は自ずと勝利する」の訳のために造語し、作者の指示で登録。",
+      "stems": {
+        "現在語幹": "herš"
+      },
+      "usage": [
+        "Firru jürta herš o zopu.「まさに真実は自ずと勝利する」（文語では Firru jürta o zopu herš.）",
+        "打ち負かす相手は目的語にし、格は文法3.2に従う。",
+        "アオリストは全人称同形。未来は ša ＋現在形、進行は le ＋動名詞、完了は he ＋過去分詞。"
+      ]
+    },
+    "099ee263e831bcfd": {
+      "status": "採用済み",
+      "section": "名詞",
+      "stemType": "子音幹",
+      "grammar": "名詞 / N / 固定型",
+      "etymology": "haršen の結果名詞（ウムラウト・Ø）",
+      "ald": "",
+      "relation": "",
+      "note": "WOLD でも「勝利」を「勝つ」の動詞から作る言語が多い（35言語中12）。 2026-10-30、作者の「まさに真実は自ずと勝利する」の訳のために造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": []
+    },
+    "3695a5175bf0eddf": {
+      "status": "採用済み",
+      "section": "名詞",
+      "stemType": "子音幹",
+      "grammar": "名詞 / M / 固定型",
+      "etymology": "Ald. zōpe",
+      "ald": "zōpe「自己」",
+      "relation": "同語根（資料）",
+      "note": "長母音なので固定型。語末の短い e を落とす。主語と同じ対象を目的語にするときは、zop ではなく普通の代名詞を使う（文法4.7）。アルディア語辞書 No.1670。 2026-10-30、作者の「まさに真実は自ずと勝利する」の訳のために造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "o zopu「自ずと、ひとりでに」"
+      ]
+    },
+    "ce603cf17784fa62": {
+      "section": "接辞・派生表現",
+      "status": "採用済み",
+      "stemType": "",
+      "grammar": "副詞（慣用句）",
+      "etymology": "o「〜から」＋ zop の奪格 zopu（「自分から」）",
+      "ald": "",
+      "relation": "",
+      "note": "ハンガリー語 magától（maga「自分」＋「〜から」）、フィンランド語 itsestään、ドイツ語 von selbst と同じ「自分から」の型。形を変えない。 2026-10-30、作者の「まさに真実は自ずと勝利する」の訳のために造語し、作者の指示で登録。",
+      "stems": {},
+      "usage": [
+        "Firru jürta herš o zopu.「まさに真実は自ずと勝利する」（文語では Firru jürta o zopu herš.）"
       ]
     }
   },
