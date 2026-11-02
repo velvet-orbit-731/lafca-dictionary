@@ -1,0 +1,11 @@
+# 生成物（python3 tools/check.py --build で再生成）。公開用は直下の index.html と generator/index.html だけを管理する
+辞書/ラフカ語辞書.html
+辞書/data.json
+辞書/収録と未確定事項.md
+語彙生成器/data.json
+語彙生成器/ラフカ語同語根語生成器.html
+
+.cache/
+__pycache__/
+node_modules/
+.DS_Store

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="ラフカ語・アルディア語から同語根語と祖語形を検索。祖語形が未登録の語も音対応規則から候補を生成。オフラインで動作。">
+<title>ラフカ語 同語根語生成器</title>
+<style>/*__STYLE__*/</style></head>
+<body>
+<header class="top"><a class="brand" href="#main"><span class="mark" aria-hidden="true">L</span><span>LAFCA<span class="brand-small">語彙研究室</span></span></a><span class="offline"><i></i> オフラインで動作</span></header>
+<main id="main">
+<div class="intro"><p class="eyebrow">LAFCA ↔ ALDIAN · PROTO-FORMS</p><h1>同語根語生成器</h1><p>ラフカ語・アルディア語から同語根語と祖語形を調べる。新しい語根の候補も、根拠とともに並べる。</p></div>
+<form id="query-form" class="query">
+<div class="input-wrap"><label for="word">ラフカ語・アルディア語の単語</label><input id="word" name="word" value="juraj" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="64" placeholder="例：jure、juraj、cori" aria-describedby="input-help"></div>
+<div><label for="language">入力言語</label><select id="language"><option value="auto">自動（両言語）</option><option value="lafca">ラフカ語</option><option value="aldian">アルディア語</option></select></div>
+<div><label for="pos">品詞</label><select id="pos"><option value="auto">登録語に従う / 未指定</option><option value="noun">名詞</option><option value="verb">動詞（-en 形）</option><option value="adjective">形容詞</option><option value="other">その他の語彙語</option></select></div>
+<button type="submit" class="primary" id="generate">対応・祖語形を表示 <span aria-hidden="true">↗</span></button>
+<p id="input-help" class="input-help">祖語形が未登録の語も、規則から候補を表示します。辞書にある語は、登録された曲用・活用の全語形とも照合します。長音・ウムラウトを区別します。自動では両言語の解釈を分けて表示します。</p>
+</form>
+<div class="examples" aria-label="入力例"><span>試す</span><button data-example="jure" data-language="lafca" data-pos="auto">jure の祖語形</button><button data-example="cori" data-language="lafca" data-pos="auto">cori の祖語形</button><button data-example="zamar" data-language="lafca" data-pos="auto">zamar の祖語候補</button><button data-example="juraj" data-pos="auto">juraj → jure</button><button data-example="wluc" data-pos="auto">wluc → vluž</button><button data-example="rēdog" data-language="aldian" data-pos="noun">rēdog の分岐</button><button data-example="cangen" data-pos="verb">cangen</button><button data-example="fatta" data-pos="auto">fatta の同語根群</button></div>
+<button id="toggle-filters" class="secondary mobile-filters" type="button" aria-expanded="false" aria-controls="filter-panel">候補を分ける条件を変更</button>
+<div class="workspace">
+<aside class="controls" id="filter-panel"><div class="aside-heading"><h2>候補を分ける条件</h2><button id="reset" type="button" class="text-button">すべてに戻す</button></div><p class="muted">アルディア語からのラフカ語候補用です。祖語候補は入力言語と品詞で分けます。</p>
+<label for="long">長母音</label><select id="long"><option value="all">母音系列・q 系列の両方</option><option value="plain">母音系列のみ（ē → ä 等）</option><option value="q">q 系列のみ（ē → eq 等）</option></select>
+<label for="i">短い i</label><select id="i"><option value="all">固定・弱化系列の両方</option><option value="fixed">i 固定</option><option value="weak">弱化系列（原則 e）</option></select>
+<label for="p">入力 p</label><select id="p"><option value="all">p / pf の両方</option><option value="p">p のみ</option><option value="pf">pf のみ</option></select>
+<label for="ending">元からある語末短母音</label><select id="ending"><option value="all">脱落・保持の両方</option><option value="drop">条件を満たせば脱落</option><option value="keep">保持</option></select>
+<label for="shortening">語頭・語中の短母音</label><select id="shortening"><option value="all">保持・可能な短縮をすべて</option><option value="keep">保持のみ</option></select>
+<label for="boundary">aw / ew / aj 等の w・j</label><select id="boundary"><option value="all">二重母音・子音の両方</option><option value="default">既定の音節区切り</option></select>
+<label for="gender">名詞の性</label><select id="gender"><option value="all">語末条件に合うすべて</option><option value="M">男性</option><option value="F">女性</option><option value="N">中性</option></select>
+<label for="grade">曲用・活用</label><select id="grade"><option value="all">固定・規則的な交替をすべて</option><option value="fixed">固定型のみ</option></select>
+<p class="aside-note">任意の別読み・語彙置換・不規則な縮約は、対応を定義してから追加します。</p>
+</aside>
+<section class="results" aria-labelledby="result-title"><div class="result-heading"><div><p id="result-kicker" class="eyebrow">資料を照合</p><h2 id="result-title">生成結果</h2></div><button id="export" type="button" class="secondary" disabled>全結果を保存 ↓</button></div>
+<div id="status" role="status" aria-live="polite"></div><div id="notice"></div><div id="proto-results"></div><div id="results"></div>
+<div id="pagination" class="pagination" hidden><button id="prev" type="button" class="secondary">← 前へ</button><span id="page-label"></span><button id="next" type="button" class="secondary">次へ →</button></div>
+<details class="scope" open><summary>何を「すべて」として表示しているか</summary><div id="coverage"></div><p>新語は<strong>候補</strong>です。資料で未確定の選択を正解として確定したり、自然言語として可能な全語形を網羅したと表示したりしません。保留事項がある場合は「全列挙完了」と表示しません。</p></details>
+</section></div>
+<details class="sources"><summary>参照資料・仕様</summary><p>登録語・祖語形・語源注記はウェブラフカ語辞書の公開正本から取得したスナップショットです。祖語形が未登録の場合は規則から候補を生成し、登録形と区別します。非同源の語を共通祖語に結び付けません。検索中の外部通信はありません。</p><div id="source-list"></div><p>祖語候補：系統と設計ノート §2–4、音変化再検討案 §2–3・§6。ラフカ語候補：再検討案 §9。音節制約：ラフカ語文法 §1.1。曲用・活用：同 §2.2–2.4。</p></details>
+<footer><span>ALDIAN × LAFCA</span><span id="version"></span></footer>
+</main>
+<script id="proto-source">/*__PROTO__*/</script><script id="morphology-source">/*__MORPHOLOGY__*/</script><script id="paradigm-source">/*__PARADIGM__*/</script><script id="engine-source">/*__ENGINE__*/</script><script>/*__DATA__*/</script><script>/*__APP__*/</script>
+</body></html>

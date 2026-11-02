@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data:; connect-src https://api.github.com; base-uri 'none'; form-action 'none'">
+  <title>ラフカ語辞書</title>
+  <style>/*__STYLE__*/</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>ラフカ語辞書</h1>
+    <span class="stat" id="stat"></span>
+  </header>
+  <main>
+    <div class="searchbar"><form id="search-form" class="panel" role="search">
+      <input id="query" type="search" placeholder="単語・訳語を入力" aria-label="検索語" autocomplete="off" spellcheck="false">
+      <div class="opts">
+        <fieldset><legend>対象</legend>
+          <label><input type="radio" name="scope" value="both" checked>見出し語＋訳語</label>
+          <label><input type="radio" name="scope" value="head">見出し語</label>
+          <label><input type="radio" name="scope" value="trans">訳語</label>
+          <label><input type="radio" name="scope" value="full">全文</label>
+        </fieldset>
+        <fieldset><legend>方式</legend>
+          <label><input type="radio" name="mode" value="prefix">前方一致</label>
+          <label><input type="radio" name="mode" value="partial" checked>部分一致</label>
+          <label><input type="radio" name="mode" value="exact">完全一致</label>
+        </fieldset>
+      </div>
+      <div class="opts">
+        <label><input id="useinfl" type="checkbox" checked>変化形も探す</label>
+      </div>
+      <div class="opts filters">
+        <label>項目 <select id="kind"><option value="">すべて</option><option>単語</option><option>接辞</option><option>接頭辞</option><option>接尾辞</option><option>慣用句</option></select></label>
+        <label id="pos-filter">品詞 <select id="pos"><option value="">すべて</option></select></label>
+        <label id="numeral-filter">数詞 <select id="numeral"><option value="">指定なし</option><option value="all">すべての数詞</option><option>基数</option><option>序数</option></select></label>
+        <label id="gender-filter" hidden>性 <select id="gender" disabled><option value="">すべて</option><option value="M">男性</option><option value="F">女性</option><option value="N">中性</option></select></label>
+        <label id="class-filter" hidden>分類 <select id="class" disabled><option value="">すべて</option></select></label>
+        <label>タグ <select id="tag-filter"><option value="">指定なし</option></select></label>
+        <button type="button" id="reset">リセット</button>
+      </div>
+    </form></div>
+    <div class="result-bar"><p id="count" role="status" aria-live="polite"></p><button id="shuffle" type="button">シャッフル</button><span id="active-tag"></span><button id="clear-tag" hidden>タグ解除</button></div>
+    <nav id="pager-top" class="pager" aria-label="検索結果のページ（上）"></nav>
+    <div id="results"></div>
+    <nav id="pager-bottom" class="pager" aria-label="検索結果のページ（下）"></nav>
+  </main>
+  <noscript>検索と語形表の表示にはJavaScriptを有効にしてください。</noscript>
+</div>
+<script id="dictionary-data">/*__DATA__*/</script>
+<script>/*__APP__*/</script>
+</body>
+</html>

@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2388 1668" width="2388" height="1668" font-family="Hiragino Sans, Hiragino Kaku Gothic ProN, Noto Sans CJK JP, sans-serif">
+<defs>
+<pattern id="peat" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+  <line x1="0" y1="0" x2="0" y2="14" stroke="#6b4e2e" stroke-width="2" opacity="0.6"/></pattern>
+<pattern id="marsh" width="16" height="12" patternUnits="userSpaceOnUse">
+  <path d="M2,10 l3,-6 M5,4 l3,6 M9,10 l3,-6 M12,4 l3,6" stroke="#2f7d4f" stroke-width="1.6" fill="none"/></pattern>
+<marker id="arw" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7f8c8d"/></marker>
+</defs>
+<image href="地図/derived_背景_州枠.png" x="0" y="0" width="2388" height="1668"/>
+<rect x="0" y="0" width="2388" height="1668" fill="#ffffff" opacity="0.12"/>
+<path d="M672.0,576.0 C691,562 736,556 768.0,564.0 C800,572 844,602 864.0,624.0 C884,646 894,676 888.0,696.0 C882,716 856,740 828.0,744.0 C800,748 749,736 720.0,720.0 C691,704 662,672 654.0,648.0 C646,624 653,590 672.0,576.0 Z" fill="#e7dcc3" opacity="0.85"/><path d="M672.0,576.0 C691,562 736,556 768.0,564.0 C800,572 844,602 864.0,624.0 C884,646 894,676 888.0,696.0 C882,716 856,740 828.0,744.0 C800,748 749,736 720.0,720.0 C691,704 662,672 654.0,648.0 C646,624 653,590 672.0,576.0 Z" fill="url(#peat)"/>
+<path d="M1476.0,528.0 C1494,512 1564,514 1608.0,516.0 C1652,518 1704,526 1740.0,540.0 C1776,554 1820,582 1824.0,600.0 C1828,618 1798,640 1764.0,648.0 C1730,656 1664,654 1620.0,648.0 C1576,642 1524,632 1500.0,612.0 C1476,592 1458,544 1476.0,528.0 Z" fill="#e7dcc3" opacity="0.85"/><path d="M1476.0,528.0 C1494,512 1564,514 1608.0,516.0 C1652,518 1704,526 1740.0,540.0 C1776,554 1820,582 1824.0,600.0 C1828,618 1798,640 1764.0,648.0 C1730,656 1664,654 1620.0,648.0 C1576,642 1524,632 1500.0,612.0 C1476,592 1458,544 1476.0,528.0 Z" fill="url(#peat)"/>
+<path d="M1344.0,756.0 C1363,744 1406,733 1440.0,732.0 C1474,731 1524,736 1548.0,750.0 C1572,764 1592,798 1584.0,816.0 C1576,834 1534,853 1500.0,858.0 C1466,863 1409,855 1380.0,846.0 C1351,837 1332,819 1326.0,804.0 C1320,789 1325,768 1344.0,756.0 Z" fill="#cfe8cf" opacity="0.85"/><path d="M1344.0,756.0 C1363,744 1406,733 1440.0,732.0 C1474,731 1524,736 1548.0,750.0 C1572,764 1592,798 1584.0,816.0 C1576,834 1534,853 1500.0,858.0 C1466,863 1409,855 1380.0,846.0 C1351,837 1332,819 1326.0,804.0 C1320,789 1325,768 1344.0,756.0 Z" fill="url(#marsh)"/>
+<path d="M828.0,672.0 C838,659 872,658 888.0,666.0 C904,674 920,699 924.0,720.0 C928,741 922,778 912.0,792.0 C902,806 878,812 864.0,804.0 C850,796 834,766 828.0,744.0 C822,722 818,685 828.0,672.0 Z" fill="#cfe8cf" opacity="0.85"/><path d="M828.0,672.0 C838,659 872,658 888.0,666.0 C904,674 920,699 924.0,720.0 C928,741 922,778 912.0,792.0 C902,806 878,812 864.0,804.0 C850,796 834,766 828.0,744.0 C822,722 818,685 828.0,672.0 Z" fill="url(#marsh)"/>
+<path d="M1608.0,1248.0 C1632,1232 1700,1228 1740.0,1236.0 C1780,1244 1838,1272 1848.0,1296.0 C1858,1320 1828,1364 1800.0,1380.0 C1772,1396 1714,1400 1680.0,1392.0 C1646,1384 1608,1356 1596.0,1332.0 C1584,1308 1584,1264 1608.0,1248.0 Z" fill="#e3ecd3" opacity="0.6" stroke="#9db47a" stroke-width="2" stroke-dasharray="6 6"/>
+<path d="M-24.0,1506.0 C4,1505 80,1502 144.0,1502.4 C208,1503 294,1507 360.0,1509.6 C426,1512 488,1510 540.0,1518.0 C592,1526 626,1556 672.0,1560.0 C718,1564 764,1551 816.0,1542.0 C868,1533 936,1512 984.0,1506.0 C1032,1500 1084,1506 1104.0,1506.0" fill="none" stroke="#c9a96a" stroke-width="60" stroke-linecap="round" opacity="0.4"/>
+<path d="M1056.0,564.0 C1080,560 1146,540 1200.0,540.0 C1254,540 1320,554 1380.0,564.0 C1440,574 1500,582 1560.0,600.0 C1620,618 1684,644 1740.0,672.0 C1796,700 1870,752 1896.0,768.0" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-dasharray="18 12" opacity="0.8"/>
+<path d="M672.0,816.0 C700,818 782,820 840.0,828.0 C898,836 960,854 1020.0,864.0 C1080,874 1140,878 1200.0,888.0 C1260,898 1314,908 1380.0,924.0 C1446,940 1530,958 1596.0,984.0 C1662,1010 1730,1048 1776.0,1080.0 C1822,1112 1856,1160 1872.0,1176.0" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-dasharray="18 12" opacity="0.8"/>
+<path d="M516.0,1200.0 C542,1204 618,1212 672.0,1224.0 C726,1236 788,1260 840.0,1272.0 C892,1284 912,1298 984.0,1296.0 C1056,1294 1196,1276 1272.0,1260.0 C1348,1244 1386,1210 1440.0,1200.0 C1494,1190 1542,1190 1596.0,1200.0 C1650,1210 1736,1250 1764.0,1260.0" fill="none" stroke="#8a5a2b" stroke-width="7" stroke-dasharray="18 12" opacity="0.8"/>
+<path d="M1596.0,564.0 C1602,574 1622,606 1632.0,624.0 C1642,642 1652,664 1656.0,672.0" fill="none" stroke="#6f6f6f" stroke-width="5"/>
+<path d="M1680.0,546.0 C1684,556 1696,587 1704.0,606.0 C1712,625 1724,651 1728.0,660.0" fill="none" stroke="#6f6f6f" stroke-width="5"/>
+<path d="M1752.0,564.0 C1756,574 1772,614 1776.0,624.0" fill="none" stroke="#6f6f6f" stroke-width="5"/>
+<ellipse cx="1524.0" cy="1380.0" rx="48.0" ry="21.599999999999998" transform="rotate(-20 1524.0 1380.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1176.0" cy="1272.0" rx="16.8" ry="9.6" transform="rotate(0 1176.0 1272.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1356.0" cy="600.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1356.0 600.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1440.0" cy="564.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1440.0 564.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1704.0" cy="720.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1704.0 720.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1776.0" cy="780.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1776.0 780.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1872.0" cy="888.0" rx="12.0" ry="7.199999999999999" transform="rotate(0 1872.0 888.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1224.0" cy="360.0" rx="12.0" ry="7.199999999999999" transform="rotate(0 1224.0 360.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1320.0" cy="300.0" rx="12.0" ry="7.199999999999999" transform="rotate(0 1320.0 300.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1416.0" cy="396.0" rx="10.799999999999999" ry="6.0" transform="rotate(0 1416.0 396.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1560.0" cy="1080.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1560.0 1080.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="1656.0" cy="1140.0" rx="14.399999999999999" ry="8.4" transform="rotate(0 1656.0 1140.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="768.0" cy="672.0" rx="12.0" ry="7.199999999999999" transform="rotate(0 768.0 672.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="2112.0" cy="672.0" rx="10.799999999999999" ry="6.0" transform="rotate(0 2112.0 672.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<ellipse cx="2220.0" cy="708.0" rx="10.799999999999999" ry="6.0" transform="rotate(0 2220.0 708.0)" fill="#5aa9dc" stroke="#2c6f9e" stroke-width="2"/>
+<path d="M1080.0,1514.4 C1088,1524 1114,1546 1128.0,1572.0 C1142,1598 1158,1652 1164.0,1668.0" fill="none" stroke="#2c6f9e" stroke-width="4" stroke-dasharray="10 6"/>
+<path d="M1200.0,300.0 C1206,310 1224,340 1236.0,360.0 C1248,380 1266,410 1272.0,420.0" fill="none" stroke="#2c6f9e" stroke-width="3"/>
+<path d="M1380.0,240.0 C1384,252 1394,288 1404.0,312.0 C1414,336 1434,372 1440.0,384.0" fill="none" stroke="#2c6f9e" stroke-width="3"/>
+<path d="M456.0,912.0 C466,900 488,864 516.0,840.0 C544,816 590,796 624.0,768.0 C658,740 704,688 720.0,672.0" fill="none" stroke="#2c6f9e" stroke-width="3"/>
+<path d="M360.0,840.0 C366,828 380,796 396.0,768.0 C412,740 446,688 456.0,672.0" fill="none" stroke="#2c6f9e" stroke-width="3"/>
+<path d="M396.0,996.0 C414,1006 466,1037 504.0,1056.0 C542,1075 584,1105 624.0,1110.0 C664,1115 704,1097 744.0,1086.0 C784,1075 828,1059 864.0,1044.0 C900,1029 944,1004 960.0,996.0" fill="none" stroke="#2c6f9e" stroke-width="5" stroke-linecap="round"/>
+<path d="M912.0,1476.0 C920,1462 944,1420 960.0,1392.0 C976,1364 992,1338 1008.0,1308.0 C1024,1278 1043,1243 1056.0,1212.0 C1069,1181 1081,1137 1086.0,1122.0" fill="none" stroke="#2c6f9e" stroke-width="4.5" stroke-linecap="round"/>
+<path d="M672.0,726.0 C684,733 718,759 744.0,768.0 C770,777 802,780 828.0,780.0 C854,780 882,768 900.0,768.0 C918,768 928,778 933.6,780.0" fill="none" stroke="#2c6f9e" stroke-width="5" stroke-linecap="round"/>
+<path d="M1164.0,1032.0 C1161,1040 1153,1065 1146.0,1080.0 C1139,1095 1126,1115 1122.0,1122.0" fill="none" stroke="#2c6f9e" stroke-width="3" stroke-linecap="round"/>
+<path d="M1200.0,840.0 C1216,838 1260,836 1296.0,828.0 C1332,820 1396,798 1416.0,792.0" fill="none" stroke="#2c6f9e" stroke-width="4" stroke-linecap="round"/>
+<path d="M1620.0,624.0 C1623,636 1632,670 1638.0,696.0 C1644,722 1653,766 1656.0,780.0" fill="none" stroke="#2c6f9e" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M1728.0,672.0 C1732,660 1744,626 1752.0,600.0 C1760,574 1772,530 1776.0,516.0" fill="none" stroke="#2c6f9e" stroke-width="4" stroke-linecap="round"/>
+<path d="M1680.0,1308.0 C1696,1320 1748,1354 1776.0,1380.0 C1804,1406 1836,1450 1848.0,1464.0" fill="none" stroke="#2c6f9e" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M1518.0,1356.0 C1513,1338 1498,1286 1488.0,1248.0 C1478,1210 1467,1168 1458.0,1128.0 C1449,1088 1440,1048 1434.0,1008.0 C1428,968 1425,924 1422.0,888.0 C1419,852 1405,812 1416.0,792.0 C1427,772 1458,770 1488.0,768.0 C1518,766 1558,770 1596.0,780.0 C1634,790 1678,818 1716.0,828.0 C1754,838 1790,837 1824.0,840.0 C1858,843 1904,845 1920.0,846.0" fill="none" stroke="#1b4f8a" stroke-width="9" stroke-linecap="round"/>
+<path d="M1518.0,1356.0 C1513,1338 1498,1286 1488.0,1248.0 C1478,1210 1467,1168 1458.0,1128.0 C1449,1088 1440,1048 1434.0,1008.0 C1428,968 1425,924 1422.0,888.0 C1419,852 1405,812 1416.0,792.0 C1427,772 1458,770 1488.0,768.0 C1518,766 1558,770 1596.0,780.0 C1634,790 1678,818 1716.0,828.0 C1754,838 1790,837 1824.0,840.0 C1858,843 1904,845 1920.0,846.0" fill="none" stroke="#5aa9dc" stroke-width="4" stroke-linecap="round"/>
+<path d="M1920.0,846.0 C1925,843 1940,833 1950.0,828.0 C1960,823 1975,818 1980.0,816.0" fill="none" stroke="#1b4f8a" stroke-width="5" stroke-linecap="round"/>
+<path d="M1920.0,846.0 C1926,846 1945,845 1956.0,846.0 C1967,847 1981,853 1986.0,854.4" fill="none" stroke="#1b4f8a" stroke-width="5" stroke-linecap="round"/>
+<path d="M1920.0,846.0 C1924,850 1936,863 1944.0,870.0 C1952,877 1964,885 1968.0,888.0" fill="none" stroke="#1b4f8a" stroke-width="5" stroke-linecap="round"/>
+<path d="M-24.0,1507.2 C0,1506 66,1500 120.0,1500.0 C174,1500 244,1505 300.0,1507.2 C356,1510 412,1512 456.0,1514.4 C500,1517 532,1514 564.0,1521.6 C596,1529 618,1555 648.0,1560.0 C678,1565 708,1556 744.0,1550.4 C780,1545 824,1534 864.0,1526.4 C904,1518 948,1504 984.0,1502.4 C1020,1500 1052,1517 1080.0,1514.4 C1108,1512 1130,1504 1152.0,1488.0 C1174,1472 1196,1443 1212.0,1416.0 C1228,1389 1243,1356 1248.0,1326.0 C1253,1296 1252,1264 1242.0,1236.0 C1232,1208 1211,1180 1188.0,1158.0 C1165,1136 1130,1121 1104.0,1104.0 C1078,1087 1052,1073 1032.0,1056.0 C1012,1039 997,1022 984.0,1002.0 C971,982 961,961 954.0,936.0 C947,911 945,880 942.0,852.0 C939,824 941,792 936.0,768.0 C931,744 921,725 912.0,708.0 C903,691 887,673 882.0,666.0" fill="none" stroke="#1b4f8a" stroke-width="14" stroke-linecap="round"/>
+<path d="M-24.0,1507.2 C0,1506 66,1500 120.0,1500.0 C174,1500 244,1505 300.0,1507.2 C356,1510 412,1512 456.0,1514.4 C500,1517 532,1514 564.0,1521.6 C596,1529 618,1555 648.0,1560.0 C678,1565 708,1556 744.0,1550.4 C780,1545 824,1534 864.0,1526.4 C904,1518 948,1504 984.0,1502.4 C1020,1500 1052,1517 1080.0,1514.4 C1108,1512 1130,1504 1152.0,1488.0 C1174,1472 1196,1443 1212.0,1416.0 C1228,1389 1243,1356 1248.0,1326.0 C1253,1296 1252,1264 1242.0,1236.0 C1232,1208 1211,1180 1188.0,1158.0 C1165,1136 1130,1121 1104.0,1104.0 C1078,1087 1052,1073 1032.0,1056.0 C1012,1039 997,1022 984.0,1002.0 C971,982 961,961 954.0,936.0 C947,911 945,880 942.0,852.0 C939,824 941,792 936.0,768.0 C931,744 921,725 912.0,708.0 C903,691 887,673 882.0,666.0" fill="none" stroke="#4d9be0" stroke-width="7" stroke-linecap="round"/>
+<path d="M948.0,840.0 C990,840 1158,840 1200.0,840.0" fill="none" stroke="#c0392b" stroke-width="4" stroke-dasharray="8 6"/>
+<polygon points="1122.0,1122.0 1146.0,1122.0 1134.0,1148.3999999999999" fill="#1b4f8a"/>
+<rect x="1034.3999999999999" y="1053.6" width="18" height="7" transform="rotate(40 1044.0 1058.3999999999999)" fill="#c0392b"/>
+<path d="M1189.0,1418.0 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/>
+<path d="M1021.0,1064.0 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/>
+<path d="M925.0,776.0 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/>
+<path d="M1405.0,806.0 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/>
+<path d="M1909.0,854.0 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/>
+<rect x="1680.0" y="984.0" width="10" height="10" fill="#444" transform="rotate(45 1685.0 989.0)"/>
+<rect x="1776.0" y="1056.0" width="10" height="10" fill="#444" transform="rotate(45 1781.0 1061.0)"/>
+<rect x="1872.0" y="1020.0" width="10" height="10" fill="#444" transform="rotate(45 1877.0 1025.0)"/>
+<rect x="1620.0" y="1056.0" width="10" height="10" fill="#444" transform="rotate(45 1625.0 1061.0)"/>
+<path d="M708.0,600.0 C714,596 730,582 744.0,576.0 C758,570 776,564 792.0,564.0 C808,564 832,574 840.0,576.0" fill="none" stroke="#e8d27a" stroke-width="9" stroke-linecap="round"/>
+<circle cx="882.0" cy="657.6" r="9" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="763.9999999999999" y="647.5999999999999" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">アルダン</text>
+<text x="763.9999999999999" y="647.5999999999999" font-size="22" fill="#222" font-weight="600" text-anchor="start">アルダン</text>
+<circle cx="768.0" cy="614.4" r="6" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="756.0" y="600.4" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">バルゼン</text>
+<text x="756.0" y="600.4" font-size="22" fill="#222" font-weight="600" text-anchor="start">バルゼン</text>
+<circle cx="1416.0" cy="782.4" r="6" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="1428.0" y="812.4" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">デドレン</text>
+<text x="1428.0" y="812.4" font-size="22" fill="#222" font-weight="600" text-anchor="start">デドレン</text>
+<circle cx="1824.0" cy="840.0" r="6" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="1803.9999999999998" y="871.9999999999999" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">ランヴェス</text>
+<text x="1803.9999999999998" y="871.9999999999999" font-size="22" fill="#222" font-weight="600" text-anchor="start">ランヴェス</text>
+<circle cx="1986.0" cy="828.0" r="6" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="1998.0" y="817.9999999999999" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">ベクヴレン</text>
+<text x="1998.0" y="817.9999999999999" font-size="22" fill="#222" font-weight="600" text-anchor="start">ベクヴレン</text>
+<circle cx="1272.0" cy="420.0" r="5" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="1284.0" y="425.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">ダンゴヴ</text>
+<text x="1284.0" y="425.0" font-size="22" fill="#222" font-weight="600" text-anchor="start">ダンゴヴ</text>
+<circle cx="1524.0" cy="1416.0" r="5" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="1514.0" y="1446.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">ニルデン</text>
+<text x="1514.0" y="1446.0" font-size="22" fill="#222" font-weight="600" text-anchor="start">ニルデン</text>
+<circle cx="1086.0" cy="1122.0" r="5" fill="#222" stroke="#fff" stroke-width="2"/>
+<text x="970.9999999999999" y="1152.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="600" text-anchor="start" opacity="0.85">レルベル</text>
+<text x="970.9999999999999" y="1152.0" font-size="22" fill="#222" font-weight="600" text-anchor="start">レルベル</text>
+<text x="360.0" y="288.0" font-size="48" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">血  海</text>
+<text x="360.0" y="288.0" font-size="48" fill="#2c6f9e" font-weight="700" text-anchor="start">血  海</text>
+<text x="360.0" y="342.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">南の湾入（アルダン湾）</text>
+<text x="360.0" y="342.0" font-size="22" fill="#2c6f9e" font-weight="500" text-anchor="start">南の湾入（アルダン湾）</text>
+<text x="1476.0" y="180.0" font-size="48" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">グレノム海</text>
+<text x="1476.0" y="180.0" font-size="48" fill="#2c6f9e" font-weight="700" text-anchor="start">グレノム海</text>
+<text x="1476.0" y="228.0" font-size="20" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">閉鎖海・低塩分・平均水深 73 m</text>
+<text x="1476.0" y="228.0" font-size="20" fill="#2c6f9e" font-weight="500" text-anchor="start">閉鎖海・低塩分・平均水深 73 m</text>
+<text x="2028.0" y="948.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">東の湾（Ovluss デルタ前湾）</text>
+<text x="2028.0" y="948.0" font-size="18" fill="#2c6f9e" font-weight="500" text-anchor="start">東の湾（Ovluss デルタ前湾）</text>
+<text x="156.0" y="780.0" font-size="24" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ヨートルミア</text>
+<text x="156.0" y="780.0" font-size="24" fill="#5a4a3a" font-weight="500" text-anchor="start">ヨートルミア</text>
+<text x="180.0" y="1368.0" font-size="24" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ストラヴォイナ</text>
+<text x="180.0" y="1368.0" font-size="24" fill="#5a4a3a" font-weight="500" text-anchor="start">ストラヴォイナ</text>
+<text x="1500.0" y="1596.0" font-size="24" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ナレジア</text>
+<text x="1500.0" y="1596.0" font-size="24" fill="#5a4a3a" font-weight="500" text-anchor="start">ナレジア</text>
+<text x="2160.0" y="1128.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">東の隣国</text>
+<text x="2160.0" y="1128.0" font-size="22" fill="#5a4a3a" font-weight="500" text-anchor="start">東の隣国</text>
+<text x="-12.0" y="1470.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">←ホトリガ山系から</text>
+<text x="-12.0" y="1470.0" font-size="18" fill="#1b4f8a" font-weight="500" text-anchor="start">←ホトリガ山系から</text>
+<text x="396.0" y="1476.0" font-size="28" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">サルヴァシュ川 Salvaš（氷縁谷区間）</text>
+<text x="396.0" y="1476.0" font-size="28" fill="#1b4f8a" font-weight="700" text-anchor="start">サルヴァシュ川 Salvaš（氷縁谷区間）</text>
+<text x="1272.0" y="1200.0" font-size="26" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" transform="rotate(-75 1272.0 1200.0)" opacity="0.85">サルヴァシュ川</text>
+<text x="1272.0" y="1200.0" font-size="26" fill="#1b4f8a" font-weight="700" text-anchor="start" transform="rotate(-75 1272.0 1200.0)">サルヴァシュ川</text>
+<text x="1260.0" y="1458.0" font-size="20" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">大屈曲 Salvašen Coh</text>
+<text x="1260.0" y="1458.0" font-size="20" fill="#c0392b" font-weight="700" text-anchor="start">大屈曲 Salvašen Coh</text>
+<text x="1188.0" y="1641.6" font-size="15" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">分水界の向こうへ下る川（地図5の南枝）</text>
+<text x="1188.0" y="1641.6" font-size="15" fill="#5a4a3a" font-weight="500" text-anchor="start">分水界の向こうへ下る川（地図5の南枝）</text>
+<text x="1272.0" y="1310.3999999999999" font-size="15" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ラエラッハ峡谷区間</text>
+<text x="1272.0" y="1310.3999999999999" font-size="15" fill="#1b4f8a" font-weight="500" text-anchor="start">ラエラッハ峡谷区間</text>
+<text x="1086.0" y="1158.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Rälbres 滝</text>
+<text x="1086.0" y="1158.0" font-size="14" fill="#1b4f8a" font-weight="500" text-anchor="start">Rälbres 滝</text>
+<text x="768.0" y="1068.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Farluss（西部高地から）</text>
+<text x="768.0" y="1068.0" font-size="18" fill="#1b4f8a" font-weight="500" text-anchor="start">Farluss（西部高地から）</text>
+<text x="912.0" y="1344.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" transform="rotate(-62 912.0 1344.0)" opacity="0.85">Lurluss</text>
+<text x="912.0" y="1344.0" font-size="18" fill="#1b4f8a" font-weight="500" text-anchor="start" transform="rotate(-62 912.0 1344.0)">Lurluss</text>
+<text x="672.0" y="708.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Šolžluss</text>
+<text x="672.0" y="708.0" font-size="18" fill="#1b4f8a" font-weight="500" text-anchor="start">Šolžluss</text>
+<text x="768.0" y="564.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Fosbarz 砂嘴</text>
+<text x="768.0" y="564.0" font-size="14" fill="#8a6d1a" font-weight="500" text-anchor="start">Fosbarz 砂嘴</text>
+<text x="720.0" y="528.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">高層湿原（泥炭切り）</text>
+<text x="720.0" y="528.0" font-size="14" fill="#6b4e2e" font-weight="500" text-anchor="start">高層湿原（泥炭切り）</text>
+<text x="960.0" y="828.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">運河（案）</text>
+<text x="960.0" y="828.0" font-size="14" fill="#c0392b" font-weight="500" text-anchor="start">運河（案）</text>
+<text x="1212.0" y="828.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Ovluss 西支流</text>
+<text x="1212.0" y="828.0" font-size="14" fill="#1b4f8a" font-weight="500" text-anchor="start">Ovluss 西支流</text>
+<text x="1470.0" y="1086.0" font-size="22" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" transform="rotate(-80 1470.0 1086.0)" opacity="0.85">Ovluss（東部水系の本流）</text>
+<text x="1470.0" y="1086.0" font-size="22" fill="#1b4f8a" font-weight="700" text-anchor="start" transform="rotate(-80 1470.0 1086.0)">Ovluss（東部水系の本流）</text>
+<text x="1476.0" y="876.0" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Beldina 氾濫原湿地</text>
+<text x="1476.0" y="876.0" font-size="16" fill="#2f7d4f" font-weight="500" text-anchor="start">Beldina 氾濫原湿地</text>
+<text x="1428.0" y="746.4" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">合流点（ded＋ok）</text>
+<text x="1428.0" y="746.4" font-size="14" fill="#222" font-weight="500" text-anchor="start">合流点（ded＋ok）</text>
+<text x="1620.0" y="600.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Odluss</text>
+<text x="1620.0" y="600.0" font-size="14" fill="#1b4f8a" font-weight="500" text-anchor="start">Odluss</text>
+<text x="1560.0" y="492.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">エスカー群</text>
+<text x="1560.0" y="492.0" font-size="14" fill="#555" font-weight="500" text-anchor="start">エスカー群</text>
+<text x="1782.0" y="576.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" transform="rotate(-70 1782.0 576.0)" opacity="0.85">Carluss</text>
+<text x="1782.0" y="576.0" font-size="14" fill="#1b4f8a" font-weight="500" text-anchor="start" transform="rotate(-70 1782.0 576.0)">Carluss</text>
+<text x="1644.0" y="1248.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ヴェルクレム平野</text>
+<text x="1644.0" y="1248.0" font-size="18" fill="#5a4a3a" font-weight="500" text-anchor="start">ヴェルクレム平野</text>
+<text x="1416.0" y="1380.0" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Befnir 湖</text>
+<text x="1416.0" y="1380.0" font-size="16" fill="#1b4f8a" font-weight="500" text-anchor="start">Befnir 湖</text>
+<text x="1704.0" y="1032.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">◆ 留め石（迷子石）の帯</text>
+<text x="1704.0" y="1032.0" font-size="14" fill="#444" font-weight="500" text-anchor="start">◆ 留め石（迷子石）の帯</text>
+<text x="1776.0" y="828.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">河湾群</text>
+<text x="1776.0" y="828.0" font-size="14" fill="#1b4f8a" font-weight="500" text-anchor="start">河湾群</text>
+<text x="1872.0" y="888.0" font-size="13" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">干潟（風成）</text>
+<text x="1872.0" y="888.0" font-size="13" fill="#555" font-weight="500" text-anchor="start">干潟（風成）</text>
+<text x="1032.0" y="546.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" transform="rotate(-8 1032.0 546.0)" opacity="0.85">新期モレーン帯</text>
+<text x="1032.0" y="546.0" font-size="14" fill="#8a5a2b" font-weight="500" text-anchor="start" transform="rotate(-8 1032.0 546.0)">新期モレーン帯</text>
+<text x="636.0" y="840.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">中間モレーン帯</text>
+<text x="636.0" y="840.0" font-size="14" fill="#8a5a2b" font-weight="500" text-anchor="start">中間モレーン帯</text>
+<text x="516.0" y="1224.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">古期モレーン帯</text>
+<text x="516.0" y="1224.0" font-size="14" fill="#8a5a2b" font-weight="500" text-anchor="start">古期モレーン帯</text>
+<text x="396.0" y="1080.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">西部高地（500–1,000 m）</text>
+<text x="396.0" y="1080.0" font-size="18" fill="#5a3a1a" font-weight="700" text-anchor="start">西部高地（500–1,000 m）</text>
+<text x="396.0" y="1110.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ホトリガ山系の東翼</text>
+<text x="396.0" y="1110.0" font-size="14" fill="#5a3a1a" font-weight="500" text-anchor="start">ホトリガ山系の東翼</text>
+<text x="1296.0" y="1056.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">南部台地（200–500 m）</text>
+<text x="1296.0" y="1056.0" font-size="18" fill="#7a6a3a" font-weight="700" text-anchor="start">南部台地（200–500 m）</text>
+<text x="1200.0" y="672.0" font-size="18" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">北部低地（0–200 m）</text>
+<text x="1200.0" y="672.0" font-size="18" fill="#4a6a3a" font-weight="700" text-anchor="start">北部低地（0–200 m）</text>
+<text x="1200.0" y="180.0" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">ダンゲニア半島（楯状地）</text>
+<text x="1200.0" y="180.0" font-size="16" fill="#333" font-weight="500" text-anchor="start">ダンゲニア半島（楯状地）</text>
+<text x="2112.0" y="624.0" font-size="14" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">東端の島</text>
+<text x="2112.0" y="624.0" font-size="14" fill="#333" font-weight="500" text-anchor="start">東端の島</text>
+<text x="1992.0" y="780.0" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">Ovluss デルタ</text>
+<text x="1992.0" y="780.0" font-size="16" fill="#1b4f8a" font-weight="500" text-anchor="start">Ovluss デルタ</text>
+<line x1="1800.0" y1="276.0" x2="1680.0" y2="396.0" stroke="#7f8c8d" stroke-width="6" marker-end="url(#arw)"/>
+<line x1="1920.0" y1="348.0" x2="1824.0" y2="468.0" stroke="#7f8c8d" stroke-width="6" marker-end="url(#arw)"/>
+<text x="1716.0" y="258.0" font-size="15" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">最終氷期の氷床の流動方向</text>
+<text x="1716.0" y="258.0" font-size="15" fill="#5d6d7e" font-weight="500" text-anchor="start">最終氷期の氷床の流動方向</text>
+<rect x="1948.0" y="36.0" width="560" height="430" fill="#fff" opacity="0.93" stroke="#888"/>
+<text x="1968.0" y="72.0" font-size="22" fill="#222" font-weight="700" text-anchor="start">凡例</text>
+<g transform="translate(1968.0,104.0)"><path d="M0,0 h60" stroke="#1b4f8a" stroke-width="12"/><path d="M0,0 h60" stroke="#4d9be0" stroke-width="5"/></g>
+<text x="2043.0" y="111.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">サルヴァシュ川本流</text>
+<g transform="translate(1968.0,133.0)"><path d="M0,0 h60" stroke="#1b4f8a" stroke-width="8"/><path d="M0,0 h60" stroke="#5aa9dc" stroke-width="3"/></g>
+<text x="2043.0" y="140.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">Ovluss（東部水系の本流）</text>
+<g transform="translate(1968.0,162.0)"><path d="M0,0 h60" stroke="#2c6f9e" stroke-width="4"/></g>
+<text x="2043.0" y="169.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">支流・その他の河川</text>
+<g transform="translate(1968.0,191.0)"><path d="M0,0 h60" stroke="#c0392b" stroke-width="4" stroke-dasharray="8 6"/></g>
+<text x="2043.0" y="198.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">運河（案）</text>
+<g transform="translate(1968.0,220.0)"><path d="M0,0 h60" stroke="#8a5a2b" stroke-width="7" stroke-dasharray="18 12"/></g>
+<text x="2043.0" y="227.00000000000003" font-size="17" fill="#222" font-weight="500" text-anchor="start">終堆石（モレーン）の帯</text>
+<g transform="translate(1968.0,249.0)"><path d="M0,0 h60" stroke="#c9a96a" stroke-width="20" opacity="0.5"/></g>
+<text x="2043.0" y="256.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">氷縁谷（ウルシュトロームタール）</text>
+<g transform="translate(1968.0,278.0)"><rect x="0" y="-12" width="60" height="24" fill="#e7dcc3"/><rect x="0" y="-12" width="60" height="24" fill="url(#peat)"/></g>
+<text x="2043.0" y="285.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">高層湿原・泥炭地</text>
+<g transform="translate(1968.0,307.0)"><rect x="0" y="-12" width="60" height="24" fill="#cfe8cf"/><rect x="0" y="-12" width="60" height="24" fill="url(#marsh)"/></g>
+<text x="2043.0" y="314.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">氾濫原湿地・低層湿原</text>
+<g transform="translate(1968.0,336.0)"><path d="M20,8 l11,-18 l11,18 z" fill="none" stroke="#c0392b" stroke-width="3"/></g>
+<text x="2043.0" y="343.00000000000006" font-size="17" fill="#222" font-weight="500" text-anchor="start">氷塞（アイスジャム）常習地</text>
+<g transform="translate(1968.0,365.0)"><path d="M0,0 h60" stroke="#6f6f6f" stroke-width="5"/></g>
+<text x="2043.0" y="372.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">エスカー</text>
+<g transform="translate(1968.0,394.0)"><rect x="20" y="-6" width="12" height="12" fill="#444" transform="rotate(45 26 0)"/></g>
+<text x="2043.0" y="401.0" font-size="17" fill="#222" font-weight="500" text-anchor="start">留め石（迷子石）</text>
+<g transform="translate(1968.0,423.0)"><text x="0" y="6" font-size="14" fill="#333">緑 0–200 m／黄 200–500／橙 500–1,000（下絵＝地図2）</text></g>
+<rect x="1908.0" y="464.0" width="402" height="8" fill="#222"/><rect x="1908.0" y="464.0" width="201" height="8" fill="#fff" stroke="#222"/>
+<text x="1908.0" y="494.0" font-size="15" fill="#222" font-weight="500" text-anchor="start">0</text>
+<text x="2109.0" y="494.0" font-size="15" fill="#222" font-weight="500" text-anchor="middle">100</text>
+<text x="2310.0" y="494.0" font-size="15" fill="#222" font-weight="500" text-anchor="middle">200 km</text>
+<text x="24.0" y="54.0" font-size="40" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="700" text-anchor="start" opacity="0.85">ラフカの水系 模式図（第2版・創作案）</text>
+<text x="24.0" y="54.0" font-size="40" fill="#222" font-weight="700" text-anchor="start">ラフカの水系 模式図（第2版・創作案）</text>
+<text x="24.0" y="93.6" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">下絵：亜空世界Wiki「ラフカ連邦 州分け」の枠に、作者提示の地形図（地図2）を海岸線一致で変換して重ねたもの（一致率 IoU 0.91）。河川・地形区分は『ラフカ河川_水文地理誌』第2版の配置案。</text>
+<text x="24.0" y="93.6" font-size="16" fill="#333" font-weight="500" text-anchor="start">下絵：亜空世界Wiki「ラフカ連邦 州分け」の枠に、作者提示の地形図（地図2）を海岸線一致で変換して重ねたもの（一致率 IoU 0.91）。河川・地形区分は『ラフカ河川_水文地理誌』第2版の配置案。</text>
+<text x="24.0" y="120.0" font-size="16" fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" font-weight="500" text-anchor="start" opacity="0.85">サルヴァシュ川の経路は地図5（ラフ）を同じ枠へ変換した線に沿わせた。固有名はサルヴァシュ以外すべて未採用の候補。</text>
+<text x="24.0" y="120.0" font-size="16" fill="#333" font-weight="500" text-anchor="start">サルヴァシュ川の経路は地図5（ラフ）を同じ枠へ変換した線に沿わせた。固有名はサルヴァシュ以外すべて未採用の候補。</text>
+</svg>

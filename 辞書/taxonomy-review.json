@@ -1,0 +1,3129 @@
+{
+  "entries": [
+    {
+      "id": "531575f4b132cf4e",
+      "head": "af",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の上に, 〜の上で",
+          "tags": [
+            "与格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "5aa5a851bfd23be2",
+      "head": "ähel",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "まさに〜しようとしている, 今にも〜しそうだ（差し迫った未来）",
+          "tags": [
+            "近接未来"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "9743f43978180060",
+      "head": "aq",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "痛っ, いたっ, 痛い",
+          "tags": [
+            "感情"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "b272cd98baf37f04",
+      "head": "ar",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜に（受益者）, 〜のために",
+          "tags": [
+            "与格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "ae0b90c8b35c059b",
+      "head": "atrudaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "こそ泥, 小泥棒, 小盗人",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "95475391e5ee00b9",
+      "head": "äv",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜できる（状況的可能）, 〜することが可能である",
+          "tags": [
+            "状況的可能"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "84c160598d9b79b4",
+      "head": "avenaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "豚野郎, ブタ野郎（罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "e6f9fbd1062842c8",
+      "head": "bänn",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "学問, 学術, 学び",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "b3092062773a36e4",
+      "head": "banujen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "転がる, ころがる, 転がっていく",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "e1a660bd5f37ed0e",
+      "head": "bažod",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "土, つち, 土壌",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "794344508847ec95",
+      "head": "benaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "ガキ, がき（子供への蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "dd53ce1401b483f6",
+      "head": "bidašta",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "兄弟たち, 兄弟達, きょうだいたち",
+          "tags": [
+            "集合"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "1139402447df33fb",
+      "head": "bisčlaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "飲んだくれ, 呑んだくれ, 酔いどれ",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "d179de61275a1dd7",
+      "head": "bisviq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "ビール, 麦酒",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "4e4404c0e4a5d525",
+      "head": "bodaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "ブス, 醜女（容姿への蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        },
+        {
+          "meaning": "醜男, ぶおとこ（容姿への蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "190fb354a29ba5dd",
+      "head": "bräm",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "麦, むぎ, ムギ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "8734d0c6dac861cf",
+      "head": "čacaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "弱虫, よわむし, 意気地なし",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "f959b92e430601cf",
+      "head": "čamo",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "銅, あかがね",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "934a261a2f7a4416",
+      "head": "čaq",
+      "pos": "代名詞",
+      "senses": [
+        {
+          "meaning": "貴様, きさま（卑称・二人称単数）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "d4528d67252c6dbe",
+      "head": "časčrä",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "悲しみ, 哀しみ, かなしみ, 悲哀",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "6b43777dd2ee9703",
+      "head": "cend",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "一方で, 他方で, その一方",
+          "tags": [
+            "対比"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "182402ac99e013d3",
+      "head": "čipu",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "いくつかの, 幾つかの, 若干の",
+          "tags": [
+            "不定数量"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.5"
+      ]
+    },
+    {
+      "id": "3362abd45937a72f",
+      "head": "čir",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "金, 黄金, こがね, ゴールド",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "f9202e3793837e05",
+      "head": "cozaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "ドブネズミ（卑劣漢への罵語）, 卑劣漢, 下劣な奴",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "e6cfc804f07e5ce2",
+      "head": "čozrak",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "雑穀, ざっこく",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "be46f5dc54299870",
+      "head": "cunaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "女め, あま（女性への罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "e9687dd46f8fd589",
+      "head": "cwisprägel",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "淫売, やり手（性的な罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "d6ecd25d1b32edbb",
+      "head": "cwisprägela",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "淫売, やり手（性的な罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "c5cef59029050660",
+      "head": "de",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "〜と, そして, および, 及び",
+          "tags": [
+            "等位"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "d4fc7854e7baf417",
+      "head": "deqa",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "雨, あめ, 降雨",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "f509d9808464cfb7",
+      "head": "diltaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "老いぼれ, おいぼれ（老人への蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "f74f7f451858a348",
+      "head": "div",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "七, 7, なな, しち",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "c75c0468c02643b3",
+      "head": "divet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第七, 第7, 七番目, 7番目, ななばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "0375ba4be6f90d27",
+      "head": "docaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "片端（障害者への蔑称）, かたわ",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "8fc0ccbdbf617a34",
+      "head": "dočub",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "金銭, お金, かね, 金（かね）, 銭",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "503b6e9dd34202ca",
+      "head": "düfuv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "煙, けむり, 煙気",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "2d1a038e27b79594",
+      "head": "elfosclaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "阿呆, アホ, あほ, 馬鹿, バカ",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "9478b3bfdec6db31",
+      "head": "enžar",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の後ろに, 〜の背後に",
+          "tags": [
+            "主格支配"
+          ]
+        },
+        {
+          "meaning": "〜の後に, 〜のあとに（時間）",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "cd7d12423c6344ea",
+      "head": "ert",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第一, 第1, 一番目, 1番目, いちばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "b48f6d73fd53af82",
+      "head": "fatta",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "森林, 樹林（集合）",
+          "tags": [
+            "集合",
+            "可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "f8d6ca42bb2187f5",
+      "head": "felt",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜したい, 〜することを望む（願望）",
+          "tags": [
+            "願望"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "25cbc12864ca817f",
+      "head": "firint",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の間, 〜のあいだ（時間）, 〜の期間中",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "315f7969e088e4c4",
+      "head": "fissa",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "水, みず",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "cbd85d1758dd5329",
+      "head": "fol",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の前に, 〜より前に",
+          "tags": [
+            "主格支配"
+          ]
+        },
+        {
+          "meaning": "〜より（比較の基準）",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "aeb6b9965697b27e",
+      "head": "fräsiq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "糞, ふん, くそ, 大便, うんこ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "73e070610efb3a8f",
+      "head": "gan",
+      "pos": "形容詞",
+      "senses": [
+        {
+          "meaning": "一, 1, いち",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "455fbf287f42d310",
+      "head": "ganet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "複合数末尾の1に対応する序数形",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "0a0c49bbef7cb8a1",
+      "head": "gassen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "食べる, たべる, 食う, 喰う",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "daaaa57d3cc86dc7",
+      "head": "geta",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "尿, 小便, おしっこ, しっこ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "0b121b99e5a03185",
+      "head": "gev",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "八, 8, はち",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "56632da485a4b56a",
+      "head": "gevet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第八, 第8, 八番目, 8番目, はちばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "4c4d87a4d9996bd0",
+      "head": "glan",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "なぜなら, 何故なら, というのも",
+          "tags": [
+            "理由"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "e54f9e32511d3d92",
+      "head": "gohel",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "油, あぶら, オイル",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "130f908261e258f4",
+      "head": "gunta",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の下に, 〜の下で",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "95f87f6d02ed28da",
+      "head": "guva",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の上方に, 〜の上の方に",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "9db72c03b536637b",
+      "head": "han",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜できる（能力）, 〜する能力がある",
+          "tags": [
+            "能力"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "637bc60af21acfbc",
+      "head": "he",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "完了（＋過去分詞）, 〜してしまった, すでに〜した",
+          "tags": [
+            "完了"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "d53e63818769c51c",
+      "head": "he",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "おい, ねえ, なあ（呼びかけ）",
+          "tags": [
+            "呼びかけ"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "a2edfc47352f3819",
+      "head": "hit",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "過去完了（＋過去分詞）, 〜してしまっていた, すでに〜していた",
+          "tags": [
+            "過去",
+            "完了"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "47b41b58e5f87c42",
+      "head": "hlenden",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "飲む, のむ, 呑む",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "08a82e34dc8cc2cb",
+      "head": "hlenu",
+      "pos": "副詞",
+      "senses": [
+        {
+          "meaning": "少し, すこし, ちょっと, わずかに, 僅かに",
+          "tags": [
+            "程度"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.6"
+      ]
+    },
+    {
+      "id": "a55c40f6bf0f6e35",
+      "head": "hloš",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜にもかかわらず, 〜なのに, 〜に反して",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "ad6de320a2c7263b",
+      "head": "ho",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "百, 100, ひゃく",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "f156b787423bfc12",
+      "head": "hodiv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "七百, 700, ななひゃく",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "dfefa114dc1a9bc9",
+      "head": "hodivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第七百, 第700, 七百番目, 700番目, ななひゃくばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "36e7baf3515a6321",
+      "head": "hogev",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "八百, 800, はっぴゃく",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "a04dd66a33263e8e",
+      "head": "hogevet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第八百, 第800, 八百番目, 800番目, はっぴゃくばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "53b1a0b5a5ff415f",
+      "head": "hoh",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "おお, おや, あっ（驚き）",
+          "tags": [
+            "感情"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "1967fc61723038ca",
+      "head": "honiv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "九百, 900, きゅうひゃく",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "e398aeb97f150c70",
+      "head": "honivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第九百, 第900, 九百番目, 900番目, きゅうひゃくばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "0213c534171a924e",
+      "head": "höri",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "王たち, 王達, 諸王（文語）",
+          "tags": [
+            "集合",
+            "文語"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2",
+        "文法2.2.6"
+      ]
+    },
+    {
+      "id": "89ec75bdc2e5a16c",
+      "head": "hot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第百, 第100, 百番目, 100番目, ひゃくばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "7409653b6361e3cb",
+      "head": "hrum",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "塩, しお, 食塩",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "695293ccbe150ca3",
+      "head": "ihen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "狩る, かる, 狩猟する, 狩りをする",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "cfa0dfdc303ad0c8",
+      "head": "inzaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "インゼ野郎（民族蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "cd3e84df573ec3cf",
+      "head": "jal",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "はい, ええ, うん（肯定の返答）",
+          "tags": [
+            "応答"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "3b321a73bd431844",
+      "head": "jod",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "よし, 了解, わかった, 承知した",
+          "tags": [
+            "応答"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "7c4daa700063a88f",
+      "head": "jon",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜に逆らって, 〜に抗して, 〜に反して",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "6af8245c60ae0785",
+      "head": "jotta",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "善, 善さ, 善良さ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "ee0d029e7a6ffbd0",
+      "head": "lač",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "肉, にく",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "da615a72f6ef0450",
+      "head": "le",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜している（進行・＋動名詞）",
+          "tags": [
+            "進行"
+          ]
+        },
+        {
+          "meaning": "〜される（受動・＋過去分詞）",
+          "tags": [
+            "受動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "eb5c5146095a455f",
+      "head": "len",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "〜している（小辞 le / lit による進行）",
+          "tags": [
+            "進行"
+          ]
+        },
+        {
+          "meaning": "〜される（小辞 le / lit による受動）",
+          "tags": [
+            "受動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.5"
+      ]
+    },
+    {
+      "id": "a5f4b80cabb314b8",
+      "head": "lit",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜していた（未完了過去・＋動名詞）",
+          "tags": [
+            "過去",
+            "進行"
+          ]
+        },
+        {
+          "meaning": "〜された（過去の受動・＋過去分詞）",
+          "tags": [
+            "過去",
+            "受動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "f5763dd3d3db218e",
+      "head": "loča",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "血, ち, 血液",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "14972890d454d124",
+      "head": "lona",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "木立, こだち, 樹木の群れ",
+          "tags": [
+            "集合",
+            "可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "e1536af87923cf2b",
+      "head": "ma",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "もし, もしも, 仮に（条件）",
+          "tags": [
+            "条件"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "ea11f6dcd5c8ba65",
+      "head": "mä",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "ええと, えーと, えっと, あのう（つなぎ）",
+          "tags": [
+            "発話のつなぎ"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "72ae51371c113a07",
+      "head": "mäl",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜だろう, 〜そうだ, おそらく〜だ（推量）",
+          "tags": [
+            "推量"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "dbf7c50ba193fcd1",
+      "head": "manča",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "人々, 人びと, ひとびと",
+          "tags": [
+            "集合"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "bea19054afeb0b35",
+      "head": "manžaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "野郎, やろう（男性への罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "c0e963a31ae9002f",
+      "head": "mos",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜しなければならない, 〜する必要がある（義務）",
+          "tags": [
+            "義務"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "4f2d0b80cc97f2c5",
+      "head": "mössel",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "旦那様, ご主人様, だんなさま（敬称）",
+          "tags": [
+            "敬称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書・呼びかけと敬称"
+      ]
+    },
+    {
+      "id": "77eafa7f79fbac4a",
+      "head": "mössela",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "奥様, 奥さま, おくさま（敬称）",
+          "tags": [
+            "敬称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書・呼びかけと敬称"
+      ]
+    },
+    {
+      "id": "413d78b78a2a1b3b",
+      "head": "mut",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜と共に, 〜とともに, 〜と一緒に",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "67ec96316b4d9ce7",
+      "head": "nä",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の中へ, 〜の内部へ",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "79b836f0db51584e",
+      "head": "naha",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "雪, ゆき, 降雪",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "6b621f2dd9f35181",
+      "head": "niv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "九, 9, きゅう, く",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "f5b4dc7306ed6244",
+      "head": "nivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第九, 第9, 九番目, 9番目, きゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "97daa1bdbcab6684",
+      "head": "nö",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜ない, 〜ではない, 〜しない（否定）",
+          "tags": [
+            "否定"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "bca34b71fc6db1f2",
+      "head": "nol",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "いいえ, いえ, いや, ううん（否定の返答）",
+          "tags": [
+            "応答"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "88bcbae707f60078",
+      "head": "o",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜から, 〜より（起点）",
+          "tags": [
+            "奪格支配"
+          ]
+        },
+        {
+          "meaning": "〜によって（受動の動作主）",
+          "tags": [
+            "奪格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "e6c1c7904fe8ae55",
+      "head": "om",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の周囲で, 〜の周りで, 〜を取り巻いて",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "991119a32712de92",
+      "head": "pära",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "布, ぬの, 布地, 生地",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "a76ca38918a83f44",
+      "head": "pencet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第五, 第5, 五番目, 5番目, ごばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "0a48663b4634041e",
+      "head": "pencso",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "五十, 50, ごじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "1541cae5be49dca4",
+      "head": "pencsot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第五十, 第50, 五十番目, 50番目, ごじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "3a95e1e25b6b4e51",
+      "head": "penk",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "五, 5, ご",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "e4c5ef610bced356",
+      "head": "pfe",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "四, 4, よん, し",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "2b3177df692814ea",
+      "head": "pfeso",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "四十, 40, よんじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "87f2fa15f4b09fde",
+      "head": "pfesot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第四十, 第40, 四十番目, 40番目, よんじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "9e632653fc18d742",
+      "head": "pfet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第四, 第4, 四番目, 4番目, よんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "b58dc719b9eebef4",
+      "head": "pfor",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜のために, 〜の為に",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "ce5176195b9499ac",
+      "head": "pfu",
+      "pos": "間投詞",
+      "senses": [
+        {
+          "meaning": "うわ, けっ, げっ（嫌悪）",
+          "tags": [
+            "感情"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.4"
+      ]
+    },
+    {
+      "id": "8e2b88414e2ca050",
+      "head": "ploq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "泥, どろ, 泥土",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "0b5441b3b54b3a02",
+      "head": "polen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "落ちる, おちる, 落下する",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "d736e50cb18df9dd",
+      "head": "polten",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "落とす, おとす, 落下させる",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "a49a6f695927b5af",
+      "head": "požam",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "樹皮, 木の皮",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "349fdbbcd52daad9",
+      "head": "pra",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "銀, ぎん, しろがね, シルバー",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "1855e4c47b185a47",
+      "head": "rida",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "平和, 泰平, 太平",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "59b7b545f7297d47",
+      "head": "ruh",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "酒, さけ, お酒, 酒類",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "3f6a13413cdba7f4",
+      "head": "ša",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜へ, 〜に向かって",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "ca842fea1f1db545",
+      "head": "ša",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜するだろう, これから〜する（未来）",
+          "tags": [
+            "未来"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "b7fdd83546ceced6",
+      "head": "šalven",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "死ぬ, しぬ, 死亡する, 亡くなる",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "d90f520e92cc5f54",
+      "head": "se",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "関係節標識, 関係詞",
+          "tags": [
+            "関係節"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "c4a1d811b164bf05",
+      "head": "seben",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "生きる, いきる, 生存する",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "68f425d8c633f2bf",
+      "head": "sel",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "中動を表す小辞, 中動標識（口語）",
+          "tags": [
+            "中動",
+            "口語"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "94f9d1b0d67af4b7",
+      "head": "septen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "生かす, 生きさせる, 生存させる",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "e992f75a047f37e9",
+      "head": "šewaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "シェヴァーレン野郎（民族蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "d67c0e25369941c9",
+      "head": "sindin",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "ゆえに, 故に, したがって, 従って, それゆえ",
+          "tags": [
+            "結果"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "5015cf54c7db896f",
+      "head": "slo",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "三, 3, さん",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "09cf9cde30e4ea01",
+      "head": "sloso",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "三十, 30, さんじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "88cf4a073b190abd",
+      "head": "slosot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第三十, 第30, 三十番目, 30番目, さんじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "1680fa8e4506635c",
+      "head": "slot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第三, 第3, 三番目, 3番目, さんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "2edd2275c60968e6",
+      "head": "so",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "十, 10, じゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "1bb163c8de6d36c6",
+      "head": "sodiv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "七十, 70, ななじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "d5ec1eb2177da92f",
+      "head": "sodivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第七十, 第70, 七十番目, 70番目, ななじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "57f76b1a2f724da5",
+      "head": "sogev",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "八十, 80, はちじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "def63ff571d97873",
+      "head": "sogevet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第八十, 第80, 八十番目, 80番目, はちじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "62bcd095bddc2b0e",
+      "head": "soniv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "九十, 90, きゅうじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "f1a67651cd1056f2",
+      "head": "sonivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第九十, 第90, 九十番目, 90番目, きゅうじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "b9a9584ce3abf1c5",
+      "head": "sot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第十, 第10, 十番目, 10番目, じゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "a935e76c8b384d7a",
+      "head": "sprogäd",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "急ぎ, 大急ぎ, 急ぐこと",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "43ff0fe7c141fb69",
+      "head": "šraz",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "食物, 食べ物, 食べもの, たべもの, 食品",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "d66d716c35da4bb1",
+      "head": "sta",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "だから, それだから, それで",
+          "tags": [
+            "結果"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "f790536728cbe68f",
+      "head": "strep",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "砂, 沙, すな",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "c933315f7d5ec16c",
+      "head": "sud",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜してよい, 〜してもよい, 〜してもいい（許可）",
+          "tags": [
+            "許可"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "f34075a8f2e1a96c",
+      "head": "suš",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜を通って, 〜を経由して",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "10cafbedf3b59f43",
+      "head": "šwešaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "気違い, 気狂い, きちがい, キチガイ（罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "34f5369230c8c685",
+      "head": "swo",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "二, 2, に",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "4b3dd19fc941755a",
+      "head": "swoso",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "二十, 20, にじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "3d7e529343fd16c0",
+      "head": "swosot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第二十, 第20, 二十番目, 20番目, にじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "aca0598ac1138b96",
+      "head": "swot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第二, 第2, 二番目, 2番目, にばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "8fd15bc05a6039df",
+      "head": "swüca",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "皮膚, ひふ, 肌, はだ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "35af39ff35024388",
+      "head": "tal",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜しよう, 〜するとよい, 〜することを勧める（勧奨）",
+          "tags": [
+            "勧奨"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "3600ff4fbaa0a057",
+      "head": "taq",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "六, 6, ろく",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "281e7e8602fb901d",
+      "head": "taqet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第六, 第6, 六番目, 6番目, ろくばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "f04db10cb2fdd72c",
+      "head": "taqso",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "六十, 60, ろくじゅう",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "0d565bd93be72759",
+      "head": "taqsot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第六十, 第60, 六十番目, 60番目, ろくじゅうばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "5e54fb001e062d5d",
+      "head": "tas",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜以来, 〜からずっと",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "492ce3717a53b028",
+      "head": "tat",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の代わりに, 〜に代わって",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "9e6dc1bd430d1cba",
+      "head": "tešen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "座る, 坐る, すわる, 腰掛ける, 着席する",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "3224e85b91439f21",
+      "head": "tešten",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "座らせる, 坐らせる, すわらせる, 着席させる",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "43c9c9c8313212fe",
+      "head": "till",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "ゼロ, 零, 0, れい, ぜろ",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "201d8074a9760191",
+      "head": "tin",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "補文標識, 〜と, 〜ということ",
+          "tags": [
+            "補文"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "1b8570e6572339ac",
+      "head": "to",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "千, 1000, せん",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "3cce234b63b35e53",
+      "head": "todiv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "七千, 7000, ななせん",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "b0872bfb2eaf1c9e",
+      "head": "todivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第七千, 第7000, 七千番目, 7000番目, ななせんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "933232cb386540a7",
+      "head": "togev",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "八千, 8000, はっせん",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "1a246dff711aa033",
+      "head": "togevet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第八千, 第8000, 八千番目, 8000番目, はっせんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "422ed1bcb244c08d",
+      "head": "toniv",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "九千, 9000, きゅうせん",
+          "tags": [
+            "基数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "f6c18d8ddca32cfc",
+      "head": "tonivet",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第九千, 第9000, 九千番目, 9000番目, きゅうせんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "7b876bea768a24a4",
+      "head": "tot",
+      "pos": "連体詞",
+      "senses": [
+        {
+          "meaning": "第千, 第1000, 千番目, 1000番目, せんばんめ",
+          "tags": [
+            "序数"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.3.3"
+      ]
+    },
+    {
+      "id": "9b0406c88e84e050",
+      "head": "u",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜の中に, 〜の内部に",
+          "tags": [
+            "与格支配"
+          ]
+        },
+        {
+          "meaning": "〜の中で（最上級の範囲）",
+          "tags": [
+            "与格支配"
+          ]
+        },
+        {
+          "meaning": "〜で（所要時間）",
+          "tags": [
+            "与格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "14796294b13af24f",
+      "head": "uč",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜から外へ, 〜の外へ",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "dd8ee9e859efe2fe",
+      "head": "una",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜なしで, 〜なくして",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "1ec69ed16b0810c3",
+      "head": "untaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "犬っころ, いぬっころ（蔑称）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "4684a668b94b8da5",
+      "head": "vek",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜まで, 〜に至るまで",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "b32bbf75c06a0e76",
+      "head": "vers",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "光, ひかり, 光明",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "591ade31d6ae9840",
+      "head": "vi",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "または, 又は, あるいは, 或いは, もしくは, 若しくは",
+          "tags": [
+            "選択"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "b7e7a37599123453",
+      "head": "vipu",
+      "pos": "代名詞",
+      "senses": [
+        {
+          "meaning": "いくつ, 幾つ",
+          "tags": [
+            "数量疑問"
+          ]
+        },
+        {
+          "meaning": "いくら, 幾ら",
+          "tags": [
+            "数量疑問"
+          ]
+        }
+      ],
+      "references": [
+        "辞書・自己紹介と質問"
+      ]
+    },
+    {
+      "id": "89c269eea7bbe19f",
+      "head": "wan",
+      "pos": "接続詞",
+      "senses": [
+        {
+          "meaning": "〜とき, 〜時, 〜するとき",
+          "tags": [
+            "時間"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.6.1"
+      ]
+    },
+    {
+      "id": "12d6ab6adb601875",
+      "head": "we",
+      "pos": "小辞",
+      "senses": [
+        {
+          "meaning": "〜か, 〜ですか（文末疑問）",
+          "tags": [
+            "真偽疑問",
+            "口語"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・2.6.7"
+      ]
+    },
+    {
+      "id": "8d1631d7973c5e3f",
+      "head": "wo",
+      "pos": "前置詞",
+      "senses": [
+        {
+          "meaning": "〜のもとで, 〜の下で",
+          "tags": [
+            "主格支配"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.5.5"
+      ]
+    },
+    {
+      "id": "d8a4c5e2a7c416ee",
+      "head": "zeped",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "唾液, 唾, つば, つばき",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "fad694fac5c3f09e",
+      "head": "žifen",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "眠る, ねむる, 寝る",
+          "tags": [
+            "自動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.5の使役対・辞書banujen"
+      ]
+    },
+    {
+      "id": "ce138287c06abea3",
+      "head": "žiften",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "眠らせる, 寝かせる, ねむらせる",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "841ce0b6ba240177",
+      "head": "zigla",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "闇, やみ, 暗闇, 暗がり",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "829c14a3e885116f",
+      "head": "žoden",
+      "pos": "動詞",
+      "senses": [
+        {
+          "meaning": "殺す, ころす, 殺害する",
+          "tags": [
+            "他動"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.4.4–2.4.6・3.1の目的語付き用例"
+      ]
+    },
+    {
+      "id": "a7a1b3ab6c0a256f",
+      "head": "žofücaq",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "田舎者め, いなかものめ（罵語）",
+          "tags": [
+            "蔑称"
+          ]
+        }
+      ],
+      "references": [
+        "辞書8.1"
+      ]
+    },
+    {
+      "id": "b8990ea2f2ebe6c8",
+      "head": "žoht",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "鉄, てつ",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    },
+    {
+      "id": "0a4f1e2202cec389",
+      "head": "žru",
+      "pos": "名詞",
+      "senses": [
+        {
+          "meaning": "灰, はい",
+          "tags": [
+            "不可算"
+          ]
+        }
+      ],
+      "references": [
+        "文法2.2.2"
+      ]
+    }
+  ]
+}
